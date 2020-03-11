@@ -3,10 +3,30 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyB.us/feed.xml" rel="self" />
     <link href="https://MkeCountyB.us" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2020-03-11T17:42:05-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
     <id>https://MkeCountyB.us</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Colin White</name>
+        </author>
+        <link href="https://MkeCountyB.us/about.html"/>
+        <id>https://MkeCountyB.us/about.html</id>
+
+        <updated>2020-03-11T17:00:45-05:00</updated>
+            <summary>
+                <![CDATA[
+                    For anyone that happens to stumble onto this, nothing to see but the rough design at this point. Enjoy the custom logos!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                For anyone that happens to stumble onto this, nothing to see but the rough design at this point. Enjoy the custom logos!
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -5,9 +5,24 @@
     "home_page_url": "https://MkeCountyB.us",
     "feed_url": "https://MkeCountyB.us/feed.json",
     "user_comment": "",
+    "icon": "https://MkeCountyB.us/media/website/MCBlogfaviconBig.png",
     "author": {
         "name": "Colin White"
     },
     "items": [
+        {
+            "id": "https://MkeCountyB.us/about.html",
+            "url": "https://MkeCountyB.us/about.html",
+            "title": "About",
+            "summary": "For anyone that happens to stumble onto this, nothing to see but the rough design at this point. Enjoy the custom logos!",
+            "content_html": "For anyone that happens to stumble onto this, nothing to see but the rough design at this point. Enjoy the custom logos!",
+            "author": {
+                "name": "Colin White"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-11T00:39:06-05:00",
+            "date_modified": "2020-03-11T17:00:45-05:00"
+        }
     ]
 }
