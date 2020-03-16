@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyB.us/feed.xml" rel="self" />
     <link href="https://MkeCountyB.us" />
-    <updated>2020-03-16T09:36:30-05:00</updated>
+    <updated>2020-03-16T09:38:20-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Privacy"/>
             <category term="MPD"/>
 
-        <updated>2020-03-16T09:36:21-05:00</updated>
+        <updated>2020-03-16T09:38:15-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyB.us/media/posts/2/Kiosk-Rendering.png" alt="" />
@@ -56,7 +56,7 @@
 <p>New York City had privacy issues exposed with their <a href="https://theintercept.com/2018/09/08/linknyc-free-wifi-kiosks/" title="ARE NEW YORK’S FREE LINKNYC INTERNET KIOSKS TRACKING YOUR MOVEMENTS?" target="_blank" rel="noopener noreferrer">smart payphone kiosks</a> installed throughout the city. “LinkNYC kiosks, at no cost to the city, would provide free internet coverage to anyone walking by.” The company working with NYC in this case also accidentally uploaded some testing source-code to Github,</p>
 <blockquote>“...the “LinkNYC Mobile Observation” code collects the user’s longitude and latitude, as well as the user’s browser type, operating system, device type, device identifiers, and full URL clickstreams (including date and time) and aggregates this information into a database. In Meyers’s view, this code — along with the functions of the “RxLocation” codebase — suggests that the company is interested in tracking the locations of Wi-Fi users in real time. If such code were run on a mobile app or kiosk, he said, the company would be able to make advertisements available in real time based on where and who someone was, and that this would constitute a potential violation of the company’s <a href="https://www.link.nyc/privacy-policy.html" title="LinkNYC Privacy Policy" target="_blank" rel="noopener noreferrer">privacy policy</a>. In 2016, LinkNYC’s privacy policy made it clear that it did not collect information about users’ precise locations. “However,” it states, “we know where we provide WiFi services, so when you use the services we can determine your general location.”</blockquote>
 <p> To reiterate, Smart City Media does not have a record of malfeasance that is readily discoverable through a quick duckduckgo search. That being said, it will benefit residents, visitors and our representatives to slow down, get clear answers to the above questions, verify that the proper safeguards are in place and that excessively intrusive technologies will not be introduced into our daily lives. Advertisements, like police, are necessary and beneficial to society but they should not be profiling our every click and movement (unless we have done something to truly justify it 😉.)</p>
-<p>To comment, <a href="https://github.com/MkeCountyBlog/MkeCountyBlog.github.io/issues/1" title="Overlooked Privacy Issues With The Hop's New Kiosks - Comments" target="_blank" rel="nofollow noopener noreferrer">follow this link.</a></p>
+<p>Comments for this post <a href="https://github.com/MkeCountyBlog/MkeCountyBlog.github.io/issues/1" title="Overlooked Privacy Issues With The Hop's New Kiosks - Comments" target="_blank" rel="nofollow noopener noreferrer">are available here.</a></p>
 <p><em>03/16/2020 - This post was edited to add question #10 and to perform some small grammatical fixes.</em></p>
             ]]>
         </content>
