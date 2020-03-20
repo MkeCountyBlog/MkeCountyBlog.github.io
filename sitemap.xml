@@ -12,7 +12,16 @@
 <loc>https://MkeCountyB.us/authors/colin-white/</loc>
 </url>
 <url>
+<loc>https://MkeCountyB.us/tags/brave/</loc>
+</url>
+<url>
+<loc>https://MkeCountyB.us/tags/firefox/</loc>
+</url>
+<url>
 <loc>https://MkeCountyB.us/tags/mpd/</loc>
+</url>
+<url>
+<loc>https://MkeCountyB.us/tags/open-source/</loc>
 </url>
 <url>
 <loc>https://MkeCountyB.us/tags/privacy/</loc>
@@ -24,11 +33,34 @@
 <loc>https://MkeCountyB.us/tags/the-hop/</loc>
 </url>
 <url>
+<loc>https://MkeCountyB.us/tags/web-browser/</loc>
+</url>
+<url>
 <loc>https://MkeCountyB.us/the-hops-smart-kiosks-concerns.html</loc>
 <lastmod>2020-03-16T09:38:15-05:00</lastmod>
 <image:image>
 <image:loc>https://MkeCountyB.us/media/posts/2/Kiosk-Rendering.png</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://MkeCountyB.us/the-switch-to-brave-from-the-firefox-web-browser.html</loc>
+<lastmod>2020-03-20T01:02:01-05:00</lastmod>
+<image:image>
+<image:loc>https://MkeCountyB.us/media/posts/3/logotype_alt.svg</image:loc>
+<image:title><![CDATA[Brave browser's logo, a stylized lion's head on the left, with an orange background.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyB.us/media/posts/3/StatCounter-browser-ww-monthly-200901-202002.png</image:loc>
+<image:title><![CDATA[Web Browser Market Share Worldwide between January 2009 and February 2020]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyB.us/media/posts/3/braveNewTab.png</image:loc>
+<image:title><![CDATA[Screenshot of Brave's new page]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyB.us/media/posts/3/brave-bat-partnership.svg</image:loc>
+<image:title><![CDATA[Brave logo &amp; BAT logo]]></image:title>
 </image:image>
 </url>
 </urlset>
