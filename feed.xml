@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyB.us/feed.xml" rel="self" />
     <link href="https://MkeCountyB.us" />
-    <updated>2020-03-20T01:02:14-05:00</updated>
+    <updated>2020-03-24T15:42:06-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -22,7 +22,7 @@
             <category term="Firefox"/>
             <category term="Brave"/>
 
-        <updated>2020-03-20T01:02:01-05:00</updated>
+        <updated>2020-03-24T15:39:57-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyB.us/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
@@ -87,6 +87,7 @@
 <p>Brave seems like a near perfect compromise that benefits users, advertisers and content creators. Users continue to get free content as well as <a href="https://www.ghacks.net/2020/02/25/study-finds-brave-to-be-the-most-private-browser/" title="Study finds Brave to be the most private browser" target="_blank" rel="noopener noreferrer">the most private by default browser out there</a>; advertisers can continue to sell their wares; content creators can earn money for endeavors; all without the massive, privacy invading, information dragnet currently in place. I hope to see Brave usage increase and more websites sign on; especially in Milwaukee. Some companies certainly seem to be on board as lately larger companie's ads are showing up. User growth appears to be healthy as well; <a href="https://brave.com/brave-passes-10m-mau/" title="Brave Passes 10 Million Monthly Active Users, and Sees 19% Growth since 1.0 Launch" target="_blank" rel="noopener noreferrer">passing 10 million</a> last December.</p>
 <p>Of the different Milwaukee websites I frequent, <a href="https://urbanmilwaukee.com" target="_blank" rel="noopener noreferrer">Urban Milwaukee</a> seems to have the most balanced approach with less tracking for paid members compared to free users. <a href="https://onmilwaukee.com/" target="_blank" rel="noopener noreferrer">OnMilwaukee.com</a> unfortunately has no paid tier so tracking for everybody! <a href="https://milwaukeerecord.com/">Milwaukee Record</a> uses broadstreetads.com which uses local advertising which is a plus. All three, regardless of tier, use the ubiquitous Google Analytics found on a large swath of the internet. Google Analytics monitors mouse movements, clicks, time spent on pages and much more; sending it all back to Google servers. The City of Milwaukee and Milwaukee County websites both have Google mixed in as well. Milwaukee County Blog use a locally hosted instance of <a href="https://matomo.org/" target="_blank" rel="noopener noreferrer">Matomo</a> so nobody gets any information but MCB and it is setup with some anonymizing settings enabled since I'm only interested in the number of visitors and if they come back (so far nobody but bots 😥.)</p>
 <p>Even if Brave doesn't sound like your cup of tea, I highly encourage people to install uBO-Scope (<a href="https://addons.mozilla.org/en-US/firefox/addon/ubo-scope/" target="_blank" rel="noopener noreferrer">Firefox users</a> / <a href="https://chrome.google.com/webstore/detail/ubo-scope/bbdpgcaljkaaigfcomhidmneffjjjfgp" target="_blank" rel="noopener noreferrer">Brave &amp; Chrome users</a>) so you can see all of the different companies tracking your every move online. If seeing all of the tracking doesn't make Brave or an ad blocker like uBlock Origin more appealing to you then so be it.</p>
+<p>Comments for this post <a href="https://github.com/MkeCountyBlog/MkeCountyBlog.github.io/issues/2" title="Switching to the Brave Web Browser" target="_blank" rel="nofollow noopener noreferrer">are available here.</a></p>
 <p><a href="https://brave.com" target="_blank" rel="noopener noreferrer"><img class="post__image" src="https://MkeCountyB.us/media/posts/3/brave-bat-partnership.svg" alt="Brave logo &amp; BAT logo" width="1920" height="387"></a></p>
             ]]>
         </content>
