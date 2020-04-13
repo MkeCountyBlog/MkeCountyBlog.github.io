@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyB.us/feed.xml" rel="self" />
     <link href="https://MkeCountyB.us" />
-    <updated>2020-04-13T18:34:48-05:00</updated>
+    <updated>2020-04-13T18:39:38-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Grid"/>
             <category term="Bus Routes"/>
 
-        <updated>2020-04-13T18:32:23-05:00</updated>
+        <updated>2020-04-13T18:39:34-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyB.us/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
@@ -48,6 +48,7 @@
 <p>While I personally believe this would be a fantastic system, I can already imagine the push back from those that don't want buses near their homes. It would largely follow the arguments used against apartments, building density or most (revenue generating) change of any kind introduced outside of downtown including crime, noise, environment, etc. It is impossible to improve upon the problems plaguing our area without trying something new.</p>
 <p>In the rare instances where our local politicians, against popular opinion, have moved forward with changes that they believe to be in the community's long term best interests these fears never seem to actualize. I still recall the fear from people when Best Buy was proposed for RiverPoint Village near where I grew up. The same arguments were vehemently presented but Best Buy was able to come anyways (probably since it was already zoned for retail.) The area remains largely the same now as it was then and nobody seems to think about or discuss it anymore.</p>
 <p>I believe the result of implementing a county-wide grid bus system would follow the same path; a loud opposition followed by everyone adapting to a significantly more useful transportation system that has little to no negative impact on their lives and neighborhoods. As with any idea, there's needs to be leadership that is willing to try things that may be unpopular.</p>
+<p>Comments for this post <a href="https://github.com/MkeCountyBlog/MkeCountyBlog.github.io/issues/3" title="Grid Milwaukee's Bus Routes" target="_blank" rel="nofollow noopener noreferrer">are available here.</a></p>
             ]]>
         </content>
     </entry>
