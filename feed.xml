@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyB.us/feed.xml" rel="self" />
     <link href="https://MkeCountyB.us" />
-    <updated>2020-04-13T19:18:30-05:00</updated>
+    <updated>2020-04-13T19:22:08-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -21,18 +21,18 @@
             <category term="Grid"/>
             <category term="Bus Routes"/>
 
-        <updated>2020-04-13T18:39:34-05:00</updated>
+        <updated>2020-04-13T19:22:03-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyB.us/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
-                     This post is in no way a criticism of MCTS' current design. Primarily it provides another option for designing our county bus system inspired by an article from Strong Towns discussing Indianapolis' new route trials. Above is an interactive grid pattern route map (shown above) for Milwaukee&hellip;
+                     This post is in no way a criticism of MCTS' current design. Primarily it provides another option for designing our county bus system inspired by an article from Strong Towns discussing Indianapolis' new route trials. To see a prospective grid patterned map for Milwaukee County click&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://MkeCountyB.us/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
                 <p><iframe width="100%" height="576" src="https://maphub.net/embed/89503?legend=1" frameborder="0"></iframe></p>
-<p>This post is in no way a criticism of MCTS' current design. Primarily it provides another option for designing our county bus system inspired by <a href="https://www.strongtowns.org/journal/2020/1/24/how-to-get-to-great-bus-service-in-a-car-dominated-place" title="How To Get To Great Bus Service In A Car-Dominated Place" target="_blank" rel="noopener noreferrer">an article from Strong Towns</a> discussing Indianapolis' new route trials. Above is an interactive grid pattern route map (shown above) for Milwaukee County's buses. The orange lines are East-West routes (EW) and the green lines are North-South routes (NS). For the most part each route crosses the entire county from EW or NS. Riding the bus to any destination would require knowing the cross-streets. For example: to get from Northwestern Mutual's new building downtown to the Mitchell Park Domes you would get on a bus at Mason Street / Prospect Avenue (the Wisconsin Avenue turn around), ride west along Wisconsin Avenue and transfer to the 27th Street line heading South. The same route using the existing lines is shown below.</p>
+<p>This post is in no way a criticism of MCTS' current design. Primarily it provides another option for designing our county bus system inspired by <a href="https://www.strongtowns.org/journal/2020/1/24/how-to-get-to-great-bus-service-in-a-car-dominated-place" title="How To Get To Great Bus Service In A Car-Dominated Place" target="_blank" rel="noopener noreferrer">an article from Strong Towns</a> discussing Indianapolis' new route trials. To see a prospective grid patterned map for Milwaukee County click above. The orange lines are East-West routes (EW) and the green lines are North-South routes (NS). For the most part each route crosses the entire county from EW or NS. Riding the bus to any destination would require knowing the cross-streets. For example: to get from Northwestern Mutual's new building downtown to the Mitchell Park Domes you would get on a bus at Mason Street / Prospect Avenue (the Wisconsin Avenue turn around), ride west along Wisconsin Avenue and transfer to the 27th Street line heading South. The same route using the existing lines is shown below.</p>
 <figure class="post__image post__image--center" ><img src="https://MkeCountyB.us/media/posts/4/downtownToDomes.png" alt="MCTS' current route from Downtown to the Domes" width="358" height="700">
 <figcaption >Your options for getting to the domes from downtown with the current routes. ©Ride MCTS</figcaption>
 </figure>
