@@ -3,12 +3,46 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyB.us/feed.xml" rel="self" />
     <link href="https://MkeCountyB.us" />
-    <updated>2020-04-27T09:18:21-05:00</updated>
+    <updated>2020-06-13T15:46:32-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
     <id>https://MkeCountyB.us</id>
 
+    <entry>
+        <title>Simplifying Lists/Notes/To-do Organization With CalDAV</title>
+        <author>
+            <name>Colin White</name>
+        </author>
+        <link href="https://MkeCountyB.us/simplifying-listsnotesto-do-organization-with-caldav.html"/>
+        <id>https://MkeCountyB.us/simplifying-listsnotesto-do-organization-with-caldav.html</id>
+            <category term="iPhone"/>
+            <category term="WebDAV"/>
+            <category term="Wallabag"/>
+            <category term="Pocket"/>
+            <category term="Organization"/>
+            <category term="Open Source"/>
+            <category term="Nextcloud"/>
+            <category term="Linux"/>
+            <category term="Joplin"/>
+            <category term="CalDAV"/>
+            <category term="Apple"/>
+            <category term="Android"/>
+
+        <updated>2020-06-13T15:45:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MkeCountyB.us/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
+                    [{"id":1555941466744,"type":"publii-paragraph","content":"Finding an intuitive way to organize notes and to-dos into a simple, cross-platform tool has been a tiring multiyear search. I started with Pocket for storing articles and Joplin for notes but ended up using Nextcloud's builtin CalDAV as well as the many good clients&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MkeCountyB.us/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
+                [{"id":1555941466744,"type":"publii-paragraph","content":"Finding an intuitive way to organize notes and to-dos into a simple, cross-platform tool has been a tiring multiyear search. I started with Pocket for storing articles and Joplin for notes but ended up using Nextcloud's builtin CalDAV as well as the many good clients this provides. Saved articles are primarily used for improving&nbsp;<a href=\"https://www.openstreetmap.org/#map=15/43.0427/-87.9159\" target=\"_blank\" class=\"\">OpenStreetMap</a>&nbsp;in the Milwaukee region. Notes are mostly quick reference points for Linux commands that I don't want to forget (or remember) as well as lists of books/movies/music to consume later or a place to jot down some notes during a meeting.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://www.openstreetmap.org/#map=15/43.0427/-87.9159","noFollow":{},"targetBlank":true,"sponsored":{},"ugc":{},"download":false}}},{"id":1592073602634,"type":"publii-paragraph","content":"<a href=\"https://joplinapp.org/\" target=\"_blank\">Joplin</a> worked fairly well but only works comfortably within their electron app; limiting client options. Its main selling point compared to other similar products is that it stores all files, optionally encrypted, locally on your device. Syncing is optionally done with services like Nextcloud, Google Drive or Dropbox. During my time with it, they introduced the Web-Clipper enabling users to copy an entire article's content into a note thus making Pocket redundant. Every link stored with Pocket thus was individually opened in order to clip into Joplin before deleting the Pocket account. However, Joplin never worked as quickly or flexibly as I hoped for. To make or check a note requires starting up the Joplin app, waiting for it to load, and entering the password (if encrypted). At the time (2018?), sync issues were common. For what it does Joplin is a great tool but was unable to provide what I needed (web-clipping on mobile.)","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://joplinapp.org/","noFollow":false,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1592073777851,"type":"publii-paragraph","content":"So I once again began the laborious process of opening links from Joplin to move to a self-hosted <a href=\"https://www.wallabag.it/en\" target=\"_blank\">Wallabag</a> instance. Notes stored in Joplin were converted to text based markdown files for use with Nextcloud Notes. Wallabag provides <i>most</i> of the function and convenience of Pocket without the payment and 3rd party involvement. This was satisfying for a year or two but ran into the similar feeling with Joplin. The workflow never felt very fluid and the actual effort of getting information when needed was tiring. The Android app worked well but the iOS apps I encountered were frustratingly designed resulting in one more laborious shift&nbsp;(I'm sure the last! 😜)  from Wallabag to CalDAV.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://www.wallabag.it/en","noFollow":false,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1592081087650,"type":"publii-header","content":"At Long Last: A Solution!","config":{"headingLevel":3,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"at-long-last-a-solution"}}},{"id":1592073980695,"type":"publii-paragraph","content":"According to&nbsp;<a href=\"https://en.wikipedia.org/wiki/CalDAV\" target=\"_blank\">Wikipedia</a>,&nbsp;CalDAV&nbsp;is a WebDAV extension that \"allows multiple client access to the same information thus allowing cooperative planning and information sharing.\" There are many CalDAV providers and clients of all shapes and sizes providing the flexibility I have long desired. In my case I already had a Nextcloud instance setup at home for syncing calendars, contacts and files so an existing CalDAV server was ready to go. CalDAV is builtin to popular Linux desktop environments as well as Apple products; has a great app on Android (<a href=\"https://play.google.com/store/apps/details?id=at.bitfire.davdroid&amp;hl=en_US\" target=\"_blank\">DAVx⁵</a> for syncing with&nbsp;<a href=\"https://play.google.com/store/apps/details?id=org.dmfs.tasks\" target=\"_blank\">OpenTasks</a>&nbsp;as the client); and works well with a boatload of different applications such as <a href=\"https://www.thunderbird.net/\" target=\"_blank\">Thunderbird</a>, <a href=\"https://wiki.gnome.org/Apps/Evolution/\" target=\"_blank\">Evolution</a>, <a href=\"https://kontact.kde.org/\" target=\"_blank\">Kontact</a> and <a href=\"https://github.com/pimutils/khal\" target=\"_blank\">khal</a>.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://en.wikipedia.org/wiki/CalDAV","noFollow":false,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1592074978843,"type":"publii-paragraph","content":"This cleaned up my workflow and shrunk server maintenance as I consolidated all hosted tools down to Nextcloud which is simple to keep up to date. I changed the way I store information by using Apple's <a href=\"https://apps.apple.com/us/app/reminders/id1108187841\" target=\"_blank\">Reminders</a> app on my phone and Evolution or Thunderbird on my PC. Previously I saved the articles with Wallabag or Pocket. When I inevitably came back months later to do some mapping, a full reread was required to find the needed information. Now, I copy and paste the needed information into a task making it easy to pull up when the time comes. This also allows for reminder alerts and due dates. I have task lists for books, films, music, openstreetmap mapping, learning, work and home construction. Text tags are placed at the bottom of the task so I can search for the term later and have them appear.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://apps.apple.com/us/app/reminders/id1108187841","noFollow":false,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1592079378532,"type":"publii-paragraph","content":"Realizing earlier this year that all of my goals can be accomplished with my existing tools was an epiphany. After 5 years of hoping this or that service would add this or that feature I discovered everything is already in place. The solution to a problem that has been dragging on for years was in sight and only required a reevaluation of what is already in use.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Grid Milwaukee&#x27;s Bus Routes</title>
         <author>
