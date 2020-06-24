@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Milwaukee County Blog</title>
-    <link href="https://MkeCountyB.us/feed.xml" rel="self" />
-    <link href="https://MkeCountyB.us" />
+    <link href="https://MkeCounty.site/feed.xml" rel="self" />
+    <link href="https://MkeCounty.site" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Colin White</name>
     </author>
-    <id>https://MkeCountyB.us</id>
+    <id>https://MkeCounty.site</id>
 
     <entry>
         <title>Simplifying Lists/Notes/To-do Organization With CalDAV</title>
         <author>
             <name>Colin White</name>
         </author>
-        <link href="https://MkeCountyB.us/simplifying-listsnotesto-do-organization-with-caldav.html"/>
-        <id>https://MkeCountyB.us/simplifying-listsnotesto-do-organization-with-caldav.html</id>
+        <link href="https://MkeCounty.site/simplifying-listsnotesto-do-organization-with-caldav.html"/>
+        <id>https://MkeCounty.site/simplifying-listsnotesto-do-organization-with-caldav.html</id>
             <category term="iPhone"/>
             <category term="WebDAV"/>
             <category term="Wallabag"/>
@@ -29,16 +29,16 @@
             <category term="Apple"/>
             <category term="Android"/>
 
-        <updated>2020-06-19T11:03:44-05:00</updated>
+        <updated>2020-06-24T15:01:05-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://MkeCountyB.us/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
+                        <img src="https://MkeCounty.site/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
                      Finding an intuitive way to organize notes and to-dos into a simple, cross-platform tool has been a tiring multiyear search. I started with Pocket for storing articles and Joplin for notes but ended up using Nextcloud's builtin CalDAV as well as the many good&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyB.us/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
+                    <img src="https://MkeCounty.site/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
                 
   <p>
     Finding an intuitive way to organize notes and to-dos into a simple, cross-platform tool has been a tiring multiyear search. I started with Pocket for storing articles and Joplin for notes but ended up using Nextcloud's builtin CalDAV as well as the many good clients this provides. Saved articles are primarily used for improving&nbsp;<a href="https://www.openstreetmap.org/#map=15/43.0427/-87.9159" target="_blank" class="">OpenStreetMap</a>&nbsp;in the Milwaukee region. Notes are mostly quick reference points for Linux commands that I don't want to forget (or remember) as well as lists of books/movies/music to consume later or a place to jot down some notes during a meeting.
@@ -75,30 +75,30 @@
         <author>
             <name>Colin White</name>
         </author>
-        <link href="https://MkeCountyB.us/grid-milwaukees-bus-routes.html"/>
-        <id>https://MkeCountyB.us/grid-milwaukees-bus-routes.html</id>
+        <link href="https://MkeCounty.site/grid-milwaukees-bus-routes.html"/>
+        <id>https://MkeCounty.site/grid-milwaukees-bus-routes.html</id>
             <category term="MapHub"/>
             <category term="MCTS"/>
             <category term="Grid"/>
             <category term="Bus Routes"/>
 
-        <updated>2020-06-19T11:03:44-05:00</updated>
+        <updated>2020-06-24T15:01:05-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://MkeCountyB.us/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
+                        <img src="https://MkeCounty.site/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
                      This post is in no way a criticism of MCTS' current design. Inspired by an article from Strong Towns discussing Indianapolis' new route trials it provides an alternative system design. To explore a prospective grid patterned map for Milwaukee County click the button above overlaying the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyB.us/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
+                    <img src="https://MkeCounty.site/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
                 <p><div class="post__iframe"><iframe loading="lazy" width="100%" height="576" src="https://maphub.net/embed/89503?legend=1" frameborder="0"></iframe></div></p>
 <p>This post is in no way a criticism of MCTS' current design. Inspired by <a href="https://www.strongtowns.org/journal/2020/1/24/how-to-get-to-great-bus-service-in-a-car-dominated-place" title="How To Get To Great Bus Service In A Car-Dominated Place" target="_blank" rel="noopener noreferrer">an article from Strong Towns</a> discussing Indianapolis' new route trials it provides an alternative system design. To explore a prospective grid patterned map for Milwaukee County click the button above overlaying the map. The orange lines are East-West routes (EW) and the green lines are North-South routes (NS). For the most part each route crosses the entire county from EW or NS. Riding the bus to any destination would require knowing the cross-streets. For example: to get from Northwestern Mutual's new building downtown to the Mitchell Park Domes you would get on a bus at Mason Street / Prospect Avenue (the Wisconsin Avenue turn around), ride west along Wisconsin Avenue and transfer to the 27th Street line heading South. The same route using the existing lines is shown below.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyB.us/media/posts/4/downtownToDomes.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://MkeCountyB.us/media/posts/4/responsive/downtownToDomes-xs.png 300w ,https://MkeCountyB.us/media/posts/4/responsive/downtownToDomes-sm.png 480w ,https://MkeCountyB.us/media/posts/4/responsive/downtownToDomes-md.png 768w ,https://MkeCountyB.us/media/posts/4/responsive/downtownToDomes-lg.png 1024w ,https://MkeCountyB.us/media/posts/4/responsive/downtownToDomes-xl.png 1360w ,https://MkeCountyB.us/media/posts/4/responsive/downtownToDomes-2xl.png 1600w"  alt="MCTS' current route from Downtown to the Domes" width="358" height="700">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCounty.site/media/posts/4/downtownToDomes.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://MkeCounty.site/media/posts/4/responsive/downtownToDomes-xs.png 300w ,https://MkeCounty.site/media/posts/4/responsive/downtownToDomes-sm.png 480w ,https://MkeCounty.site/media/posts/4/responsive/downtownToDomes-md.png 768w ,https://MkeCounty.site/media/posts/4/responsive/downtownToDomes-lg.png 1024w ,https://MkeCounty.site/media/posts/4/responsive/downtownToDomes-xl.png 1360w ,https://MkeCounty.site/media/posts/4/responsive/downtownToDomes-2xl.png 1600w"  alt="MCTS' current route from Downtown to the Domes" width="358" height="700">
 <figcaption >Your options for getting to the domes from downtown with the current routes. ©Ride MCTS</figcaption>
 </figure>
 <p>MCTS's existing routes are a bit more sporadic; utilizing a route number or color and destinations (ex: GoldLine Wisconsin Ave - UWM or 21 North Ave.) They have done a good job connecting major amenities but lack the ability to connect riders to every area in the county. Going from Bayside to Brown Deer takes 5-10 minutes by car and 1.5 hours by bus. Franklin and Oak Creek are nearly unreachable. The county's budget is tight every year due mostly to poor pension related decision making from the past so routes have been slowly disappearing or shrinking. MCTS, our county supervisors and our county executive do a good job maintaining the current routes to connect as many people as possible to key destinations (generally prioritizing job access) despite the lack of funds. Unfortunately the current setup appears to create a downward spiral of higher fares and lower ridership (much like the rest of the country.)</p>
-<figure class="post__image post__image--full" ><img loading="lazy" src="https://MkeCountyB.us/media/posts/4/mctsMap.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://MkeCountyB.us/media/posts/4/responsive/mctsMap-xs.png 300w ,https://MkeCountyB.us/media/posts/4/responsive/mctsMap-sm.png 480w ,https://MkeCountyB.us/media/posts/4/responsive/mctsMap-md.png 768w ,https://MkeCountyB.us/media/posts/4/responsive/mctsMap-lg.png 1024w ,https://MkeCountyB.us/media/posts/4/responsive/mctsMap-xl.png 1360w ,https://MkeCountyB.us/media/posts/4/responsive/mctsMap-2xl.png 1600w"  alt="2020 Milwaukee County Transit Guide" width="2323" height="1941">
+<figure class="post__image post__image--full" ><img loading="lazy" src="https://MkeCounty.site/media/posts/4/mctsMap.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://MkeCounty.site/media/posts/4/responsive/mctsMap-xs.png 300w ,https://MkeCounty.site/media/posts/4/responsive/mctsMap-sm.png 480w ,https://MkeCounty.site/media/posts/4/responsive/mctsMap-md.png 768w ,https://MkeCounty.site/media/posts/4/responsive/mctsMap-lg.png 1024w ,https://MkeCounty.site/media/posts/4/responsive/mctsMap-xl.png 1360w ,https://MkeCounty.site/media/posts/4/responsive/mctsMap-2xl.png 1600w"  alt="2020 Milwaukee County Transit Guide" width="2323" height="1941">
 <figcaption ><a href="https://www.ridemcts.com/getattachment/Routes-Schedules/System-Map/2020-System-Map.pdf?lang=en-US" target="_blank" rel="noopener noreferrer" title="2020 Milwaukee County Transit Guide">2020 Milwaukee County Transit Guide</a> - ©MCTS</figcaption>
 </figure>
 <p>Influenced by MCTS advertising and stories about bus drivers, I began riding during the summer of 2019. My wife and I moved from downtown to Bayside a few years ago after which she started a new job in the city. We enjoy eating at various restaurants all around the city (keep it in the county!) so in order to avoid driving two cars home after dinner I decided to start taking the bus down to meet her. MCTS is a great transportation option and I now take the bus to the city multiple times a week. The drivers are friendly, helpful, and know the different routes well enough to help a turned around newcomer (such a myself.) It also encourages me to get outside and walk more. It takes at least 30 minutes to walk to the nearest bus stop from my home. Another example is last fall when I got off at the east end of Brady street and walked west to Van Buren to meet my wife.</p>
@@ -119,29 +119,29 @@
         <author>
             <name>Colin White</name>
         </author>
-        <link href="https://MkeCountyB.us/switching_to_the_brave_web_browser.html"/>
-        <id>https://MkeCountyB.us/switching_to_the_brave_web_browser.html</id>
+        <link href="https://MkeCounty.site/switching_to_the_brave_web_browser.html"/>
+        <id>https://MkeCounty.site/switching_to_the_brave_web_browser.html</id>
             <category term="Web Browser"/>
             <category term="Privacy"/>
             <category term="Open Source"/>
             <category term="Firefox"/>
             <category term="Brave"/>
 
-        <updated>2020-06-19T11:03:44-05:00</updated>
+        <updated>2020-06-24T15:01:05-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://MkeCountyB.us/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
+                        <img src="https://MkeCounty.site/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
                     A lesson I learned while teaching my Mom some computer tricks is that I should probably begin with what a (web) browser is. To do this, I'll start with a somewhat technical definition from Wikipedia, "A web browser (commonly referred to as a browser) is a software application for accessing information&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyB.us/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
+                    <img src="https://MkeCounty.site/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
                 <p>A lesson I learned while teaching my Mom some computer tricks is that I should probably begin with what a (web) browser is. To do this, I'll start with a somewhat technical definition from <a href="https://en.wikipedia.org/wiki/Web_browser" title="Web browser" target="_blank" rel="noopener noreferrer">Wikipedia</a>, "A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web." Great, now lets simplify that a bit. You will likely recognize names such as Chrome, Firefox, Edge or Safari; these are different browsers. You open it up and use it to shop on Amazon or Etsy; Duck things on <a href="https://duckduckgo.com/" target="_blank" rel="noopener noreferrer">duckduckgo</a>; checkout stuff on Pinterest, Reddit or Facebook, etc. You tell the browser what you want to see by typing in an URL, (for example <a href="https://google.com">https://google.com</a>) or more likely just type in a search term and off you go!</p>
 <p>Hopefully you now recognize what a browser is but I imagine now you're wondering so what? Who cares what browser I use? For the most part it doesn't make much of a difference. They may use slightly different styling, or have some special feature you never use, but essentially they all take you to the same place. They connect you with websites and hopefully stay out of your way.</p>
 <p>I will pick on Chrome for this paragraph because it is mostly developed by the largest internet advertising company on the planet, Google. If I remember correctly, Chrome was created to speed up web browsing and improve browser security. Around 2010 Internet Explorer was full of security holes and Firefox was slow and bloated so the user experience was not particularly good. Also, Google wanted to be sure that the Google search engine remained the default option at least in Chrome since search ads drive a great deal of their revenue; IE or Firefox switching their default search provider at the time could have been very harmful to Google's bottom line.</p>
 <p>The green line on the chart below shows the change in Chrome's market share from 2009-2020. Today it controls roughly 65% of the browser market which gives Google a great deal of power in discussions about what standards are introduced and adopted and how they are implemented. Chrome is very slow to adopt the privacy features built-in to their competitor's browsers as they would negatively effect their advertising income. This allows them to better identify and track people in order to serve them more targeted advertisements and make more money.</p>
-<figure class="post__image"><img loading="lazy"  src="https://MkeCountyB.us/media/posts/3/StatCounter-browser-ww-monthly-200901-202002.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://MkeCountyB.us/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-xs.png 300w ,https://MkeCountyB.us/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-sm.png 480w ,https://MkeCountyB.us/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-md.png 768w ,https://MkeCountyB.us/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-lg.png 1024w ,https://MkeCountyB.us/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-xl.png 1360w ,https://MkeCountyB.us/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-2xl.png 1600w"  alt="Web Browser Market Share Worldwide between January 2009 and February 2020" width="1280" height="720"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://MkeCounty.site/media/posts/3/StatCounter-browser-ww-monthly-200901-202002.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://MkeCounty.site/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-xs.png 300w ,https://MkeCounty.site/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-sm.png 480w ,https://MkeCounty.site/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-md.png 768w ,https://MkeCounty.site/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-lg.png 1024w ,https://MkeCounty.site/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-xl.png 1360w ,https://MkeCounty.site/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-2xl.png 1600w"  alt="Web Browser Market Share Worldwide between January 2009 and February 2020" width="1280" height="720"></figure>
 <p>Chrome is built on top of the open-source Chromium browser. Chrome is essentially Chromium with a Google sweatshirt. Everyone is free to use and change Chromium but that sweatshirt is hiding all of the extra stuff Google adds to build the proprietary Chrome. The source code is closed off so no one can see. You can think of Brave as Chromium with a completely different sweatshirt with all of its unique features open to everyone allowing us see, change and help improve it. So you get all of the security and speed benefits without most of the Google enabled tracking and privacy invading aspects of Chrome. </p>
 <p>That is the basic building blocks of the Brave browser. <strong>The truly revolutionary portion is their long-term goal of replacing the massive user tracking and profiling system that currently powers the internet economy with a privacy preserving advertising system built into the browser.</strong> Most internet services such as Gmail, Facebook, Instagram, Tiktok, newspapers, magazines, blogs, etc are funded through advertising. This is why a service like Hulu has a free tier with advertising while Netflix always requires you to pay. The trouble is, this business model incentivizes massive amounts of surveillance across the internet.</p>
 <blockquote>
@@ -186,14 +186,14 @@
 </ul>
 <p>At this point you might be uneasy but still think, "hey, they need to earn money to pay for their reporting. There aren't that many options for decent, local, investigative journalism and the newspaper industry has been hammered over the years (by Google &amp; Facebook as it turns out.)" This is where Brave stands out from the other browsers. Instead of just blocking ads, Brave users are able to earn money in the form of Basic Attention Tokens (BAT) for allowing Brave to display ads occasionally. You are able to adjust how frequently they appear and are not required to enable them; it is an opt-in choice. At this point, the ads display as notifications on your computer or phone and disappear after a few seconds. When ads popup, you earn 70% of the ad revenue while the other 30% goes to Brave providing them with a dedicated funding source. Firefox, the third most used browser, is another open source browser with some ad-blocking but they rely on search engine providers for a large chunk of their annual funding leaving them with an unstable year to year budget and an uncertain future. They face the same problem as newspapers: since less people are using them, they get paid less for the default search engine rights and have less money to compete.</p>
 <p>Every month Brave distributes a user-adjustable percentage of your BAT to the websites you visit based on the amount of time you spent at each site. When the ad is displayed, you earn BAT; no need to click on the ad if you're not interested. The tracking and ad targeting is all done locally on your computer and is never sent anywhere or shared with anyone. This allows website owners and content creators to earn money without strong-arming users into giving information to Google and Facebook to sell to ad companies. When you browse Github, Reddit, Twitter or YouTube, the content creators are able to receive BAT instead of just the website operator. This means that Timmy will get BAT for his YouTube video when people watch it, not just YouTube.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyB.us/media/posts/3/braveNewTab.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://MkeCountyB.us/media/posts/3/responsive/braveNewTab-xs.png 300w ,https://MkeCountyB.us/media/posts/3/responsive/braveNewTab-sm.png 480w ,https://MkeCountyB.us/media/posts/3/responsive/braveNewTab-md.png 768w ,https://MkeCountyB.us/media/posts/3/responsive/braveNewTab-lg.png 1024w ,https://MkeCountyB.us/media/posts/3/responsive/braveNewTab-xl.png 1360w ,https://MkeCountyB.us/media/posts/3/responsive/braveNewTab-2xl.png 1600w"  alt="Screenshot of Brave's new page" width="1920" height="1054">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCounty.site/media/posts/3/braveNewTab.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://MkeCounty.site/media/posts/3/responsive/braveNewTab-xs.png 300w ,https://MkeCounty.site/media/posts/3/responsive/braveNewTab-sm.png 480w ,https://MkeCounty.site/media/posts/3/responsive/braveNewTab-md.png 768w ,https://MkeCounty.site/media/posts/3/responsive/braveNewTab-lg.png 1024w ,https://MkeCounty.site/media/posts/3/responsive/braveNewTab-xl.png 1360w ,https://MkeCounty.site/media/posts/3/responsive/braveNewTab-2xl.png 1600w"  alt="Screenshot of Brave's new page" width="1920" height="1054">
 <figcaption >Brave's new tab page where you can see what's been blocked and how much time you've saved. ©MCB</figcaption>
 </figure>
 <p>Brave seems like a near perfect compromise that benefits users, advertisers and content creators. Users continue to get free content as well as <a href="https://www.ghacks.net/2020/02/25/study-finds-brave-to-be-the-most-private-browser/" title="Study finds Brave to be the most private browser" target="_blank" rel="noopener noreferrer">the most private by default browser out there</a>; advertisers can continue to sell their wares; content creators can earn money for endeavors; all without the massive, privacy invading, information dragnet currently in place. I hope to see Brave usage increase and more websites sign on; especially in Milwaukee. Some companies certainly seem to be on board as lately larger companie's ads are showing up. User growth appears to be healthy as well; <a href="https://brave.com/brave-passes-10m-mau/" title="Brave Passes 10 Million Monthly Active Users, and Sees 19% Growth since 1.0 Launch" target="_blank" rel="noopener noreferrer">passing 10 million</a> last December.</p>
 <p>Of the different Milwaukee websites I frequent, <a href="https://urbanmilwaukee.com" target="_blank" rel="noopener noreferrer">Urban Milwaukee</a> seems to have the most balanced approach with less tracking for paid members compared to free users. <a href="https://onmilwaukee.com/" target="_blank" rel="noopener noreferrer">OnMilwaukee.com</a> unfortunately has no paid tier so tracking for everybody! <a href="https://milwaukeerecord.com/">Milwaukee Record</a> uses broadstreetads.com which uses local advertising which is a plus. All three, regardless of tier, use the ubiquitous Google Analytics found on a large swath of the internet. Google Analytics monitors mouse movements, clicks, time spent on pages and much more; sending it all back to Google servers. The City of Milwaukee and Milwaukee County websites both have Google mixed in as well. Milwaukee County Blog use a locally hosted instance of <a href="https://matomo.org/" target="_blank" rel="noopener noreferrer">Matomo</a> so nobody gets any information but MCB and it is setup with some anonymizing settings enabled since I'm only interested in the number of visitors and if they come back (so far nobody but bots 😥.)</p>
 <p>Even if Brave doesn't sound like your cup of tea, I highly encourage people to install uBO-Scope (<a href="https://addons.mozilla.org/en-US/firefox/addon/ubo-scope/" target="_blank" rel="noopener noreferrer">Firefox users</a> / <a href="https://chrome.google.com/webstore/detail/ubo-scope/bbdpgcaljkaaigfcomhidmneffjjjfgp" target="_blank" rel="noopener noreferrer">Brave &amp; Chrome users</a>) so you can see all of the different companies tracking your every move online. If seeing all of the tracking doesn't make Brave or an ad blocker like uBlock Origin more appealing to you then so be it.</p>
 <p>Comments for this post <a href="https://github.com/MkeCountyBlog/MkeCountyBlog.github.io/issues/2" title="Switching to the Brave Web Browser" target="_blank" rel="nofollow noopener noreferrer">are available here.</a></p>
-<figure class="post__image"><a href="https://brave.com" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://MkeCountyB.us/media/posts/3/brave-bat-partnership.svg" alt="Brave logo &amp; BAT logo" width="1920" height="387"></figure></a></p>
+<figure class="post__image"><a href="https://brave.com" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://MkeCounty.site/media/posts/3/brave-bat-partnership.svg" alt="Brave logo &amp; BAT logo" width="1920" height="387"></figure></a></p>
             ]]>
         </content>
     </entry>
@@ -202,23 +202,23 @@
         <author>
             <name>Colin White</name>
         </author>
-        <link href="https://MkeCountyB.us/overlooked-privacy-issues-with-the-hops-new-kiosks.html"/>
-        <id>https://MkeCountyB.us/overlooked-privacy-issues-with-the-hops-new-kiosks.html</id>
+        <link href="https://MkeCounty.site/overlooked-privacy-issues-with-the-hops-new-kiosks.html"/>
+        <id>https://MkeCounty.site/overlooked-privacy-issues-with-the-hops-new-kiosks.html</id>
             <category term="The Hop"/>
             <category term="Surveillance"/>
             <category term="Privacy"/>
             <category term="MPD"/>
 
-        <updated>2020-06-19T11:03:44-05:00</updated>
+        <updated>2020-06-24T15:01:05-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://MkeCountyB.us/media/posts/2/Kiosk-Rendering.png" alt="" />
+                        <img src="https://MkeCounty.site/media/posts/2/Kiosk-Rendering.png" alt="" />
                     A recent press release from The Hop offers details about the 8.5 foot “Smart Kiosks” being introduced to Milwaukee’s streetcar stops beginning in May. Cities around the world have been forming relationships with companies such as Smart City Media to create new sources of income for municipalities as well&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyB.us/media/posts/2/Kiosk-Rendering.png" alt="" />
+                    <img src="https://MkeCounty.site/media/posts/2/Kiosk-Rendering.png" alt="" />
                 <p>A recent <a href="https://urbanmilwaukee.com/pressrelease/the-hop-unveils-citypost-smart-kiosk-initiative/" title="The Hop Unveils CityPost Smart Kiosk Initiative" target="_blank" rel="noopener noreferrer">press release</a> from The Hop offers details about the 8.5 foot “Smart Kiosks” being introduced to Milwaukee’s streetcar stops beginning in May. Cities around the world have been forming relationships with companies such as Smart City Media to create new sources of income for municipalities as well as bridge the gap between online advertising and people’s habits in the physical world.</p>
 <p>The idea normally revolves around using cameras, sensors and various other tracking techniques to connect people's online advertising profiles to their actions in the physical world while offering a somewhat useful tool in return at no cost to the municipality. Did Sam go to the store and buy that home mushroom farm we advertised on Instagram?</p>
 <p>These agreements often create concerns as a result of privacy and security considerations being an afterthought of companies and municipalities. When companies that specialize in advertising offer something for free, there is a trade off that often comes at the expense of an individual's privacy. When a budget strapped city such as Milwaukee is offered up to $500,000 annually at no expense, they tend not to focus on the details.</p>
