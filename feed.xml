@@ -10,6 +10,59 @@
     <id>https://MkeCountyBlog.com</id>
 
     <entry>
+        <title>Wisconsin Governor&#x27;s Vetoes Tip The Scales</title>
+        <author>
+            <name>Colin White</name>
+        </author>
+        <link href="https://MkeCountyBlog.com/wisconsin-governors-vetoes-tip-the-scales.html"/>
+        <id>https://MkeCountyBlog.com/wisconsin-governors-vetoes-tip-the-scales.html</id>
+            <category term="governor"/>
+            <category term="Wisconsin Supreme Court"/>
+            <category term="Wisconsin"/>
+
+        <updated>2020-10-11T15:43:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MkeCountyBlog.com/media/posts/7/Wisconsin_Supreme_Court-3.jpg" alt="Court room of the Wisconsin Supreme Court in Madison&#x27;s state capitol building." />
+                     This post sprang to mind while thinking about the Wisconsin governor's veto powers after a recent Wisconsin Supreme Court ruling that attempted to clarify restrictions to this broad power amended to our state constitution in 1930. Much of the commentary focused on the specific&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MkeCountyBlog.com/media/posts/7/Wisconsin_Supreme_Court-3.jpg" alt="Court room of the Wisconsin Supreme Court in Madison&#x27;s state capitol building." />
+                
+  <p>
+    This post sprang to mind while thinking about the Wisconsin governor's veto powers after a <a href="https://www.wpr.org/wisconsin-supreme-court-strikes-down-3-evers-vetoes" target="_blank">recent Wisconsin Supreme Court ruling</a> that attempted to clarify restrictions to this broad power amended to our state constitution in 1930. Much of the commentary focused on the specific vetoes from today's case but my thoughts shifted towards why Wisconsin has such a strong veto and why so much power was placed in a single branch of our state government. This year I have been reading&nbsp;<a href="https://www.amazon.com/Conservative-Sensibility-George-F-Will-ebook/dp/B07J525HRP/" target="_blank" rel="nofollow noopener">The Conservative Sensibility</a> by George F. Will. The first few chapters discuss the original design of the United States' federal government with a thorough description of the intended limits and separations.
+  </p>
+
+  <p>
+    The progressive movement gained steam in the early 20th century and progressively (see what I did there&nbsp;😉) tilted the balance of power towards the executive branch and away from the legislative and judicial branches. The design of the Wisconsin veto appeared to follow a similar pattern as described in the book. The veto turned out to be the result of a legitimate concern of how the bundling of many individual issues into a single, massive appropriation bill could force the governor to accept budget items that he disagrees with in order to allow the rest of the bill to pass. This was wonderful foresight as the United States has this very issue in Congress today. It appears hardly anyone in Congress knows the content of the bills they sign or reject as they have become so long and complicated as to make the task of reading them in their entirety nearly impossible prior to voting.
+  </p>
+
+    <figure class="blockquote">
+      <blockquote>Early critics of the omnibus appropriations process worried that it bundled too many disparate concerns into one bill that a governor would be forced to either sign into law or veto in full. This approach unfairly strengthened the Legislature's power over a governor's, their argument held, by effectively forcing a governor to accept individual budget items that they may not support in order to pass the larger budget bill. This fear heightened in the late 1920s, when a new law required the governor to propose a single budget, effectively ending any possibility that a state budget could be passed piece by piece.<br><br>In an effort to rebalance powers over the state budget, state Senator William Titus, a Progressive from Fond du Lac, proposed a constitutional amendment in 1927 that would give governors the ability to veto pieces of an appropriations bill.</blockquote>
+      <figcaption>Will Cushman, WisContext</figcaption>
+    </figure>
+
+  <p>
+    Unfortunately governors of course eventually abused this veto power. Instead of vetoing specific budget items, governors began removing numbers, letters, and words to change the legislature's intended meaning; a gross misuse of power outside of the governor's purview. A made up example below illustrates how the governor could change a bill that sends a large amount of money to Milwaukee school libraries into a tiny amount of money for public schools.
+  </p>
+
+    <blockquote class="blockquote">
+      <b>Originally:</b>&nbsp;"$10,000 to Milwaukee Public School Libraries"<br><b>Veto Applied:</b> "$10<s>,000</s> to <s>Milwaukee </s>Public School<s> Librarie</s>s"<br><b>Result:</b> "$10 to Public Schools"<br>
+    </blockquote>
+
+  <p>
+    Government at most levels appears to have expanded well outside of their intended purposes. The legislature is intended to create and introduce legislation; the governor is intended to approve or veto the legislation they propose. The shift away from these roles has helped provide a significantly less reliable government for us today. For further reading, a very fine history of the Wisconsin veto is available from <a href="https://wiscontext.org/story-wisconsins-singular-partial-veto" target="_blank">WisContext</a>.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Simplifying Lists/Notes/To-do Organization With CalDAV</title>
         <author>
             <name>Colin White</name>
@@ -29,7 +82,7 @@
             <category term="Apple"/>
             <category term="Android"/>
 
-        <updated>2020-06-24T15:08:40-05:00</updated>
+        <updated>2020-10-11T15:43:57-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
@@ -82,7 +135,7 @@
             <category term="Grid"/>
             <category term="Bus Routes"/>
 
-        <updated>2020-06-24T15:08:40-05:00</updated>
+        <updated>2020-10-11T15:43:57-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
@@ -127,7 +180,7 @@
             <category term="Firefox"/>
             <category term="Brave"/>
 
-        <updated>2020-06-24T15:08:40-05:00</updated>
+        <updated>2020-10-11T15:43:57-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
@@ -209,7 +262,7 @@
             <category term="Privacy"/>
             <category term="MPD"/>
 
-        <updated>2020-06-24T15:08:40-05:00</updated>
+        <updated>2020-10-11T15:43:57-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/2/Kiosk-Rendering.png" alt="" />
