@@ -12,6 +12,9 @@
 <loc>https://MkeCountyBlog.com/authors/colin-white/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/authors/colin-white/page/2/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/grid-milwaukees-bus-routes.html</loc>
 <lastmod>2020-04-27T09:18:15-05:00</lastmod>
 <image:image>
@@ -33,6 +36,14 @@
 <image:image>
 <image:loc>https://MkeCountyBlog.com/media/posts/2/Kiosk-Rendering.png</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/protonmail-bridge-and-thunderbird-smtp-issue-resolution.html</loc>
+<lastmod>2020-10-12T10:12:36-05:00</lastmod>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/8/fongit-2.jpg</image:loc>
+<image:title><![CDATA[Picture of ProtonMail's 5 story teal office building in Geneva.]]></image:title>
 </image:image>
 </url>
 <url>
@@ -79,6 +90,9 @@
 <loc>https://MkeCountyBlog.com/tags/caldav/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/tags/email/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/tags/firefox/</loc>
 </url>
 <url>
@@ -121,10 +135,16 @@
 <loc>https://MkeCountyBlog.com/tags/privacy/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/tags/protonmail/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/tags/surveillance/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/the-hop/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/tags/thunderbird/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/wallabag/</loc>

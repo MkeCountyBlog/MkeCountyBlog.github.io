@@ -10,6 +10,52 @@
     <id>https://MkeCountyBlog.com</id>
 
     <entry>
+        <title>ProtonMail Bridge &amp; Thunderbird SMTP Issue Resolution</title>
+        <author>
+            <name>Colin White</name>
+        </author>
+        <link href="https://MkeCountyBlog.com/protonmail-bridge-and-thunderbird-smtp-issue-resolution.html"/>
+        <id>https://MkeCountyBlog.com/protonmail-bridge-and-thunderbird-smtp-issue-resolution.html</id>
+            <category term="Thunderbird"/>
+            <category term="ProtonMail"/>
+            <category term="Privacy"/>
+            <category term="Open Source"/>
+            <category term="Email"/>
+
+        <updated>2020-10-12T10:12:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MkeCountyBlog.com/media/posts/8/fongit-2.jpg" alt="Picture of ProtonMail&#x27;s 5 story teal office building in Geneva." />
+                    While setting up the ProtonMail Bridge with Thunderbird 78.3.2 today I discovered that Thunderbird's standard self-signed certificate dialog no longer appears before sending the first message; making sending emails impossible. While ducking around (duckduckgo.com) I discovered this is a known bug that will be fixed&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MkeCountyBlog.com/media/posts/8/fongit-2.jpg" alt="Picture of ProtonMail&#x27;s 5 story teal office building in Geneva." />
+                <p>While setting up the ProtonMail Bridge with Thunderbird 78.3.2 today I discovered that Thunderbird's standard self-signed certificate dialog no longer appears before sending the first message; making sending emails impossible. While ducking around (<a href="https://duckduckgo.com" target="_blank" rel="nofollow noopener noreferrer">duckduckgo.com</a>) I discovered this is a known bug that will be fixed in an upcoming release of Thunderbird; but I want to use it now!!! 🙎🤣</p>
+<p>My work around is tedious but simple.</p>
+<ol>
+<li>Open ProtonMail Bridge.</li>
+<li>Click the 'Settings' button.</li>
+<li>'Advanced Settings.'</li>
+<li>'Change IMAP &amp; SMTP settings.'</li>
+<li>Change the IMAP &amp; SMTP ports to a random number like 1145 and 1026 respectively and then click 'Okay.'</li>
+<li>Bridge will automatically close and reopen. Follow steps 2-5 but this time only change the IMAP port to 1025.</li>
+<li>Open Thunderbird and setup a new account using account information from Bridge.</li>
+<li>Permanently store the certificate when the scary message pops open.</li>
+<li>In Thunderbird delete the account from step 7-8.</li>
+<li>In Bridge repeat steps 2-5. This time set the default ports again. (IMAP: 1143  SMTP: 1025)</li>
+<li>Repeat Steps 7-8 and enjoy!</li>
+</ol>
+<p>I have been hopping back and forth between <a href="https://mailbox.org" target="_blank" rel="noopener noreferrer">mailbox.org</a> and <a href="https://protonmail.com" target="_blank" rel="noopener noreferrer">ProtonMail</a> for a couple of years. ProtonMail has come along far enough now that I believe I'll stick with them for the long term. My primary reasoning behind paying a premium for their service is my email is all stored encrypted on their servers; in the unlikely event anyone broke into their infrastructure, all the villains would find readable are the recipients and the subject of my emails (neither of which concerns me.) As I occasionally receive tax and other financial information through email, this grants me some peace of mind. With Proton, incoming email is the main vulnerability as this is the only point in the chain where it remains unencrypted in relation to their servers.</p>
+<p>I have read others have criticize ProtonMail for not supporting IMAP and SMTP standards used by ordinary email providers (gmail, Outlook, Zoho) but I believe this argument is flawed. Other email providers expect users to do all of the work of encrypting emails themselves which a tiny fraction of a percent of users actually do. ProtonMail was developed with the goal of privacy, security and ease of use out of the box which makes using the existing standards too restraining.</p>
+<p>Removing the complexity and annoyance of PGP is a relief (I was using it client side for several years prior to the switch to ProtonMail.) Attempting to manually encrypt all of my existing unencrypted emails was a nightmare that Proton greatly simplified.</p>
+<p>One final point is that ProtonMail allows IMAP and SMTP access on the desktop through their bridge application. While it is certainly slower than an unencrypted alternative, I find the lag to be within an acceptable amount. I am also happy they <a href="https://github.com/ProtonMail" target="_blank" rel="noopener noreferrer">have open sourced</a> the majority of their client code as of October 2020.</p>
+<p>There is still more work to do on their end to polish and improve but as of now, they are much closer to having a PGP email product I can recommend to my folks without having to worry about constant problems. I cannot say the same for IMAP SMTP clients using PGP.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Wisconsin Governor&#x27;s Vetoes Tip The Scales</title>
         <author>
             <name>Colin White</name>
@@ -20,7 +66,7 @@
             <category term="Wisconsin Supreme Court"/>
             <category term="Wisconsin"/>
 
-        <updated>2020-10-11T15:43:57-05:00</updated>
+        <updated>2020-10-12T10:12:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/7/Wisconsin_Supreme_Court-3.jpg" alt="Court room of the Wisconsin Supreme Court in Madison&#x27;s state capitol building." />
@@ -82,7 +128,7 @@
             <category term="Apple"/>
             <category term="Android"/>
 
-        <updated>2020-10-11T15:43:57-05:00</updated>
+        <updated>2020-10-12T10:12:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
@@ -135,7 +181,7 @@
             <category term="Grid"/>
             <category term="Bus Routes"/>
 
-        <updated>2020-10-11T15:43:57-05:00</updated>
+        <updated>2020-10-12T10:12:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
@@ -180,7 +226,7 @@
             <category term="Firefox"/>
             <category term="Brave"/>
 
-        <updated>2020-10-11T15:43:57-05:00</updated>
+        <updated>2020-10-12T10:12:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
@@ -262,7 +308,7 @@
             <category term="Privacy"/>
             <category term="MPD"/>
 
-        <updated>2020-10-11T15:43:57-05:00</updated>
+        <updated>2020-10-12T10:12:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/2/Kiosk-Rendering.png" alt="" />
