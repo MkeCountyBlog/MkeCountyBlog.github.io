@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2020-10-12T10:54:44-05:00</updated>
+    <updated>2020-10-18T22:52:43-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -181,7 +181,7 @@
             <category term="Grid"/>
             <category term="Bus Routes"/>
 
-        <updated>2020-04-27T09:18:15-05:00</updated>
+        <updated>2020-10-18T22:52:43-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
@@ -208,7 +208,6 @@
 <p>While I personally believe this would be a fantastic system, I can already imagine the push back from those that don't want buses near their homes. It would largely follow the arguments used against apartments, building density or most (revenue generating) change of any kind introduced outside of downtown including crime, noise, environment, etc. It is impossible to improve upon the problems plaguing our area without trying something new.</p>
 <p>In the rare instances where our local politicians, against popular opinion, have moved forward with changes that they believe to be in the community's long term best interests these fears never seem to actualize. I still recall the fear from people when Best Buy was proposed for RiverPoint Village near where I grew up. The same arguments were vehemently presented but Best Buy was able to come anyways (probably since it was already zoned for retail.) The area remains largely the same now as it was then and nobody seems to think about or discuss it anymore.</p>
 <p>I believe the result of implementing a county-wide grid bus system would follow the same path; a loud opposition followed by everyone adapting to a significantly more useful transportation system that has little to no negative impact on their lives and neighborhoods. As with any idea, there's needs to be leadership that is willing to try things that may be unpopular.</p>
-<p>Comments for this post <a href="https://github.com/MkeCountyBlog/MkeCountyBlog.github.io/issues/3" title="Grid Milwaukee's Bus Routes" target="_blank" rel="nofollow noopener noreferrer">are available here.</a></p>
 <p>Edit 2020/04/27: Cleanup the intro a bit. Update post with information from the always useful <a href="https://urbanmilwaukee.com/" title="Urban Milwaukee" target="_blank" rel="noopener noreferrer">Urban Milwaukee</a>.</p>
             ]]>
         </content>
@@ -226,7 +225,7 @@
             <category term="Firefox"/>
             <category term="Brave"/>
 
-        <updated>2020-04-13T13:51:53-05:00</updated>
+        <updated>2020-10-18T22:52:27-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
@@ -291,7 +290,6 @@
 <p>Brave seems like a near perfect compromise that benefits users, advertisers and content creators. Users continue to get free content as well as <a href="https://www.ghacks.net/2020/02/25/study-finds-brave-to-be-the-most-private-browser/" title="Study finds Brave to be the most private browser" target="_blank" rel="noopener noreferrer">the most private by default browser out there</a>; advertisers can continue to sell their wares; content creators can earn money for endeavors; all without the massive, privacy invading, information dragnet currently in place. I hope to see Brave usage increase and more websites sign on; especially in Milwaukee. Some companies certainly seem to be on board as lately larger companie's ads are showing up. User growth appears to be healthy as well; <a href="https://brave.com/brave-passes-10m-mau/" title="Brave Passes 10 Million Monthly Active Users, and Sees 19% Growth since 1.0 Launch" target="_blank" rel="noopener noreferrer">passing 10 million</a> last December.</p>
 <p>Of the different Milwaukee websites I frequent, <a href="https://urbanmilwaukee.com" target="_blank" rel="noopener noreferrer">Urban Milwaukee</a> seems to have the most balanced approach with less tracking for paid members compared to free users. <a href="https://onmilwaukee.com/" target="_blank" rel="noopener noreferrer">OnMilwaukee.com</a> unfortunately has no paid tier so tracking for everybody! <a href="https://milwaukeerecord.com/">Milwaukee Record</a> uses broadstreetads.com which uses local advertising which is a plus. All three, regardless of tier, use the ubiquitous Google Analytics found on a large swath of the internet. Google Analytics monitors mouse movements, clicks, time spent on pages and much more; sending it all back to Google servers. The City of Milwaukee and Milwaukee County websites both have Google mixed in as well. Milwaukee County Blog use a locally hosted instance of <a href="https://matomo.org/" target="_blank" rel="noopener noreferrer">Matomo</a> so nobody gets any information but MCB and it is setup with some anonymizing settings enabled since I'm only interested in the number of visitors and if they come back (so far nobody but bots 😥.)</p>
 <p>Even if Brave doesn't sound like your cup of tea, I highly encourage people to install uBO-Scope (<a href="https://addons.mozilla.org/en-US/firefox/addon/ubo-scope/" target="_blank" rel="noopener noreferrer">Firefox users</a> / <a href="https://chrome.google.com/webstore/detail/ubo-scope/bbdpgcaljkaaigfcomhidmneffjjjfgp" target="_blank" rel="noopener noreferrer">Brave &amp; Chrome users</a>) so you can see all of the different companies tracking your every move online. If seeing all of the tracking doesn't make Brave or an ad blocker like uBlock Origin more appealing to you then so be it.</p>
-<p>Comments for this post <a href="https://github.com/MkeCountyBlog/MkeCountyBlog.github.io/issues/2" title="Switching to the Brave Web Browser" target="_blank" rel="nofollow noopener noreferrer">are available here.</a></p>
 <figure class="post__image"><a href="https://brave.com" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://MkeCountyBlog.com/media/posts/3/brave-bat-partnership.svg" alt="Brave logo &amp; BAT logo" width="1920" height="387"></figure></a></p>
             ]]>
         </content>
@@ -308,7 +306,7 @@
             <category term="Privacy"/>
             <category term="MPD"/>
 
-        <updated>2020-04-13T19:23:42-05:00</updated>
+        <updated>2020-10-18T22:52:15-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/2/Kiosk-Rendering.png" alt="" />
@@ -343,7 +341,6 @@
 <p>New York City had privacy issues exposed with their <a href="https://theintercept.com/2018/09/08/linknyc-free-wifi-kiosks/" title="ARE NEW YORK’S FREE LINKNYC INTERNET KIOSKS TRACKING YOUR MOVEMENTS?" target="_blank" rel="noopener noreferrer">smart payphone kiosks</a> installed throughout the city. “LinkNYC kiosks, at no cost to the city, would provide free internet coverage to anyone walking by.” The company working with NYC in this case also accidentally uploaded some testing source-code to Github,</p>
 <blockquote>“...the “LinkNYC Mobile Observation” code collects the user’s longitude and latitude, as well as the user’s browser type, operating system, device type, device identifiers, and full URL clickstreams (including date and time) and aggregates this information into a database. In Meyers’s view, this code — along with the functions of the “RxLocation” codebase — suggests that the company is interested in tracking the locations of Wi-Fi users in real time. If such code were run on a mobile app or kiosk, he said, the company would be able to make advertisements available in real time based on where and who someone was, and that this would constitute a potential violation of the company’s <a href="https://www.link.nyc/privacy-policy.html" title="LinkNYC Privacy Policy" target="_blank" rel="noopener noreferrer">privacy policy</a>. In 2016, LinkNYC’s privacy policy made it clear that it did not collect information about users’ precise locations. “However,” it states, “we know where we provide WiFi services, so when you use the services we can determine your general location.”</blockquote>
 <p> To reiterate, Smart City Media does not have a record of malfeasance that is readily discoverable through a quick duckduckgo search. That being said, it will benefit residents, visitors and our representatives to slow down, get clear answers to the above questions, verify that the proper safeguards are in place and that excessively intrusive technologies will not be introduced into our daily lives. Advertisements, like police, are necessary and beneficial to society but they should not be profiling our every click and movement (unless we have done something to truly justify it 😉.)</p>
-<p>Comments for this post <a href="https://github.com/MkeCountyBlog/MkeCountyBlog.github.io/issues/1" title="Overlooked Privacy Issues With The Hop's New Kiosks - Comments" target="_blank" rel="nofollow noopener noreferrer">are available here.</a></p>
 <p><em>03/16/2020 - This post was edited to add question #10 and to perform some small grammatical fixes.</em></p>
             ]]>
         </content>
