@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2020-11-09T08:37:17-06:00</updated>
+    <updated>2020-11-15T07:51:53-06:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Election"/>
             <category term="Absentee Ballot"/>
 
-        <updated>2020-11-09T08:37:17-06:00</updated>
+        <updated>2020-11-15T07:51:53-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/9/joshua-woroniecki-nSbsfmvURt8-unsplash.jpg" alt="The stars from the American flag with a card laying on top of the stripes that says &quot;BALLOT ENCLOSED&quot; " />
@@ -75,6 +75,10 @@
 
   <p>
     Featured image by <a href="https://unsplash.com/@joshua_j_woroniecki?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua Woroniecki</a> on <a href="https://unsplash.com/s/photos/election?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.
+  </p>
+
+  <p>
+    <b>Update 11/15/20</b><br>After more consideration as well as observing some of the shenanigans happening around the country, the confirmation code idea is open to misuse. Nothing prevents a person from generating multiple confirmations and then claiming ballot manipulation after the fact. Oh well, back to the drawing board.<br>
   </p>
             ]]>
         </content>
