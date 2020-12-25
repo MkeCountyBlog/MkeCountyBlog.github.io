@@ -53,7 +53,7 @@
             "url": "https://MkeCountyBlog.com/looking-back-at-concordia-college.html",
             "title": "Looking Back At Concordia College",
             "summary": "A short audio story exploring life on campus and why the college moved to Mequon. It features former Concordia College student Wayne Braun; presently the senior pastor at Fishers of Men Lutheran Church in Texas. He and his wife were members of the first class&hellip;",
-            "content_html": "<p>A short audio story exploring life on campus and why the college moved to Mequon. It features former Concordia College student Wayne Braun; presently the senior pastor at Fishers of Men Lutheran Church in Texas.  He and his wife were members of the first class to receive a four year bachelor of arts degree from the college in 1980.</p>\n<p><audio loading=\"lazy\" controls=\"controls\">\n  <source src=\"https://mkecounty.site/CC_LookBack.mp3\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.</audio></p>",
+            "content_html": "<p>A short audio story exploring life on campus and why the college moved to Mequon. It features former Concordia College student Wayne Braun; presently the senior pastor at Fishers of Men Lutheran Church in Texas.  He and his wife were members of the first class to receive a four year bachelor of arts degree from the college in 1980.</p>\n<p><audio loading=\"lazy\" controls=\"controls\">\n  <source src=\"https://mkecountyblog.com/CC_LookBack.mp3\" type=\"audio/mpeg\" />\nYour browser does not support the audio element.</audio></p>",
             "image": "https://MkeCountyBlog.com/media/posts/16/08.1-refectory-building.jpeg",
             "author": {
                 "name": "Colin White"
@@ -65,7 +65,7 @@
                    "CUW"
             ],
             "date_published": "2020-12-24T15:00:00-06:00",
-            "date_modified": "2020-12-24T15:38:24-06:00"
+            "date_modified": "2020-12-24T22:52:21-06:00"
         },
         {
             "id": "https://MkeCountyBlog.com/concordia-to-wgema-40-years-of-transitions-2.html",
