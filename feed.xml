@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2020-12-24T17:58:43-06:00</updated>
+    <updated>2020-12-24T22:35:05-06:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -21,17 +21,18 @@
             <category term="Concordia College"/>
             <category term="CUW"/>
 
-        <updated>2020-12-24T17:58:43-06:00</updated>
+        <updated>2020-12-24T22:35:05-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/14/thenAndNow.jpeg" alt="Black and white picture of 4 story brick dormitory in the 1920&#x27;s. Old car and motorcycle parked out front." />
-                    In 1881 Concordia College held their first class in the basement of Trinity Lutheran Church at 9th and Highland Avenue in downtown Milwaukee. Image © Colin WhiteThe following year they moved west to their new campus. As shown in the 1890 Baist's Property Atlas, the&hellip;
+                    Click on a picture to enlarge it and use the arrow keys on the keyboard to move around. Clicking on the enlarged picture will let you zoom in.In 1881 Concordia College held their first class in the basement of Trinity Lutheran Church at 9th and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://MkeCountyBlog.com/media/posts/14/thenAndNow.jpeg" alt="Black and white picture of 4 story brick dormitory in the 1920&#x27;s. Old car and motorcycle parked out front." />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+                <p>Click on a picture to enlarge it and use the arrow keys on the keyboard to move around. Clicking on the enlarged picture will let you zoom in.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
 <figure class="gallery__item"><a href="https://MkeCountyBlog.com/media/posts/14/gallery/01.jpg" data-size="3024x4032"><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/14/gallery/01-thumbnail.jpg" alt="Trinity Lutheran Church; tall steeple in the front. Weathered, dark cream city brick covered church built on a street corner." width="720" height="960"></a>
 <figcaption>In 1881 Concordia College held their first class in the basement of Trinity Lutheran Church at 9th and Highland Avenue in downtown Milwaukee. Image © Colin White</figcaption>
 </figure>
