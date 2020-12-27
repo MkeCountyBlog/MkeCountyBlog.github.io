@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2020-12-26T11:35:56-06:00</updated>
+    <updated>2020-12-27T09:36:24-06:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -21,17 +21,18 @@
             <category term="Concordia College"/>
             <category term="CUW"/>
 
-        <updated>2020-12-24T22:35:05-06:00</updated>
+        <updated>2020-12-27T09:36:24-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/14/thenAndNow.jpeg" alt="Black and white picture of 4 story brick dormitory in the 1920&#x27;s. Old car and motorcycle parked out front." />
-                    Click on a picture to enlarge it and use the arrow keys on the keyboard to move around. Clicking on the enlarged picture will let you zoom in.In 1881 Concordia College held their first class in the basement of Trinity Lutheran Church at 9th and&hellip;
+                    Desktop: Click picture to enlarge it; use keyboard's arrow keys to move around. Clicking on the enlarged picture will let you zoom in. Mobile: Click picture to enlarge it; swipe back and forth to move forward and back. Tap image to hide text. Feel free to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://MkeCountyBlog.com/media/posts/14/thenAndNow.jpeg" alt="Black and white picture of 4 story brick dormitory in the 1920&#x27;s. Old car and motorcycle parked out front." />
-                <p>Click on a picture to enlarge it and use the arrow keys on the keyboard to move around. Clicking on the enlarged picture will let you zoom in.</p>
+                <p><strong>Desktop: </strong>Click picture to enlarge it; use keyboard's arrow keys to move around. Clicking on the enlarged picture will let you zoom in.</p>
+<p><strong>Mobile: </strong>Click picture to enlarge it; swipe back and forth to move forward and back. Tap image to hide text. Feel free to zoom in on pictures.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
 <figure class="gallery__item"><a href="https://MkeCountyBlog.com/media/posts/14/gallery/01.jpg" data-size="3024x4032"><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/14/gallery/01-thumbnail.jpg" alt="Trinity Lutheran Church; tall steeple in the front. Weathered, dark cream city brick covered church built on a street corner." width="720" height="960"></a>
 <figcaption>In 1881 Concordia College held their first class in the basement of Trinity Lutheran Church at 9th and Highland Avenue in downtown Milwaukee. Image © Colin White</figcaption>
