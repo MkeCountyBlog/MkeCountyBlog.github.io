@@ -22,6 +22,7 @@
   --color-rgb: 215,58,66;
   --mctsBlue: #275090;
   --mctsGreen: #69AD7F;
+  --mctsDarkGreen: #539869;
   --mctsYellow: #f5a800;
   --text-color: #17181E;
   --headings-color: #17181E;
@@ -225,14 +226,16 @@ body {
 }
 
 a {
-  color: var(--color);
+/*Changed link color to a darker tone*/
+  color: var(--mctsDarkGreen);
   text-decoration: none;
   -webkit-transition: all 0.24s ease-out;
   -o-transition: all 0.24s ease-out;
   transition: all 0.24s ease-out;
 }
 a:hover {
-  color: var(--dark);
+/*Changed link hover color*/
+  color: var(--mctsYellow);
 }
 a:active {
   color: var(--dark);
@@ -412,37 +415,30 @@ strong {
 
 blockquote {
   font-family: var(--heading-font);
-  padding: 3.6833333333rem 0 0;
+  font-size: 0.98rem;
+  padding: 0rem;
   position: relative;
-  text-align: center;
+  /*Changed from center to left below*/
+  text-align: left;
+/*Changed below to make Blockquotes use bar instead of big quote*/
+  margin: 1em 1.5em;
+  border-left: 0.3rem solid var(--mctsGreen);
+  padding-left: 0.8rem;
 }
-blockquote {
-  font-size: 1.1377777785rem;
-}
-@media screen and (min-width: 20rem) {
-  blockquote {
-    font-size: calc(1.1377777785rem + 0.2430630467 * ((100vw - 20rem) / 50));
-  }
-}
-@media screen and (min-width: 70rem) {
-  blockquote {
-    font-size: 1.3808408252rem;
-  }
-}
-blockquote::before {
-  color: var(--dark);
-  content: "“";
-  font: normal 320%/0.9 Georgia, Times, Times New Roman, serif;
-  top: 0.5666666667rem;
-  position: absolute;
-  left: 50%;
-  -webkit-transform: translate(-50%, 0);
-      -ms-transform: translate(-50%, 0);
-          transform: translate(-50%, 0);
-}
-blockquote > :nth-child(1) {
-  margin-top: 0;
-}
+/*blockquote::before {*/
+  /*color: var(--dark);*/
+  /*content: "“";*/
+  /*font: normal 320%/0.9 Georgia, Times, Times New Roman, serif;*/
+  /*top: 0.5666666667rem;*/
+  /*position: absolute;*/
+  /*left: 50%;*/
+  /*-webkit-transform: translate(-50%, 0);*/
+      /*-ms-transform: translate(-50%, 0);*/
+          /*transform: translate(-50%, 0);*/
+/*}*/
+/*blockquote > :nth-child(1) {*/
+  /*margin-top: 0;*/
+/*}*/
 
 ul,
 ol {
