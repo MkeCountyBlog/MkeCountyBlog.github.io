@@ -11,6 +11,28 @@
     },
     "items": [
         {
+            "id": "https://MkeCountyBlog.com/linux-devices-require-user-patience.html",
+            "url": "https://MkeCountyBlog.com/linux-devices-require-user-patience.html",
+            "title": "Linux Devices Require User Patience",
+            "summary": "February 2020 I bought a system76 Thelio Major AMD desktop computer to replace a 10 year old desktop I had&hellip;",
+            "content_html": "<p>February 2020 I bought a <a href=\"https://system76.com/desktops\" title=\"system76 Thelio Major Desktops\" target=\"_blank\" rel=\"noopener noreferrer\">system76 Thelio Major AMD desktop computer</a> to replace a 10 year old desktop I had built myself. I was pretty happy with the purchase until the computer started regularly locking up requiring a hard restart to resolve. Later, an update to system76’s software or perhaps the Linux kernel caused the fans to always run at full speed creating a very loud box despite their pitch of being designed to be extremely quiet.</p>\n<p>This week after a Fedora kernel and system76 update, the fans once again quieted down; the locking up still happens sporadically (I consider this a problem with AMD and not system76) but otherwise the computer is now functioning as I originally expected.</p>\n<p>This expensive purchase was meant to provide a hassle free decade of computer use but gave me a noisy, locking mess instead. As with any Linux problem, I reported it and  patiently waited for a resolution. Unlike Purism which focuses on using older, open hardware, System76 has a few more bugs due to selling the latest and greatest. If a user is patient then these problems are eventually fixed which I am glad to say has happened for the Thelio.</p>\n<p>For Linux users, the ideal device often takes time to reach its fulfillment. This kerfuffle with my computer reminded me of the <a href=\"https://puri.sm/products/librem-5/\" title=\"Librem 5 Device Page\" target=\"_blank\" rel=\"noopener noreferrer\">Purism Librem 5 phone</a> which has mostly been sitting around collecting dust. The phone is the result of a very ambitious project by Purism to create an open, private, Linux phone with hardware kill-switches. My phone came November 2020 and has received steady operating system and software updates resulting in a fairly smooth user experience (nowhere near Apple and Google but let us maintain realistic expectations.) If the phone is ever certified for use with VoLTE I will give it a try as my regular phone.</p>\n<p>Expectations for this sort of low volume devices need to be set properly for the purchaser. With the Librem 5 I expected a phone that would be unusable for a year or two after receiving it; I get to enjoy watching the ecosystem grow for Linux phones and read about Purism's contribution to open software and hardware development. With the Thelio Major I expected a mostly stable system upon first boot; this was the impression I absorbed from their website. My incorrect assumption lowered my opinion of their devices despite their helpful support department's best efforts to pinpoint and (unsuccessfully) resolve the problems.</p>",
+            "image": "https://MkeCountyBlog.com/media/posts/24/wesley-pribadi-iS1NV9yN0Lg-unsplash.jpg",
+            "author": {
+                "name": "Colin White"
+            },
+            "tags": [
+                   "system76",
+                   "Thelio Major",
+                   "Purism",
+                   "Patience",
+                   "Linux",
+                   "Librem 5",
+                   "Expectations"
+            ],
+            "date_published": "2021-09-27T15:25:15-05:00",
+            "date_modified": "2021-09-27T15:26:08-05:00"
+        },
+        {
             "id": "https://MkeCountyBlog.com/speedway-punished-for-being-repeatedly-robbed.html",
             "url": "https://MkeCountyBlog.com/speedway-punished-for-being-repeatedly-robbed.html",
             "title": "Speedway Punished For Being Repeatedly Robbed",
