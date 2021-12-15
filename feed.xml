@@ -3,12 +3,57 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2021-09-27T15:26:08-05:00</updated>
+    <updated>2021-12-14T16:38:24-10:00</updated>
     <author>
         <name>Colin White</name>
     </author>
     <id>https://MkeCountyBlog.com</id>
 
+    <entry>
+        <title>The Role Of Bail On Milwaukee Crime Increases</title>
+        <author>
+            <name>Colin White</name>
+        </author>
+        <link href="https://MkeCountyBlog.com/the-role-of-bail-on-milwaukee-crime-increases.html"/>
+        <id>https://MkeCountyBlog.com/the-role-of-bail-on-milwaukee-crime-increases.html</id>
+            <category term="Waukesha"/>
+            <category term="WTMJ"/>
+            <category term="Milwaukee County"/>
+            <category term="Mary Triggiano"/>
+            <category term="John Chisholm"/>
+            <category term="Jeff Wagner"/>
+            <category term="Crime"/>
+            <category term="Bail"/>
+
+        <updated>2021-12-14T16:38:24-10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MkeCountyBlog.com/media/posts/25/MilwaukeeCountyCourthouse.jpg" alt="Milwaukee County Courthouse east side. Tall columned limestone building." />
+                    The Jeff Wagner Show on WTMJ recently discussed an increase in crime over the last two years that Jeff attributes&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MkeCountyBlog.com/media/posts/25/MilwaukeeCountyCourthouse.jpg" alt="Milwaukee County Courthouse east side. Tall columned limestone building." />
+                <p>The Jeff Wagner Show on WTMJ recently discussed an increase in crime over the last two years that Jeff attributes to District Attorney John Chisholm’s election in 2007 and the polices his office created that release more defendants on bail. He seems to relate these policies directly to the spike in crime Milwaukee has experienced in car thefts, shootings, and general lawlessness.</p>
+<p>The latest discussion of this topic was sparked by the individual that used his car to kill and injure multiple people during Waukesha’s annual Christmas parade. Jeff said that many of his contacts in law enforcement and the legal system backup his idea that the ease of gaining release for defendants is correlated with the jump in crime. We can sum up his argument as releasing suspected criminals on bail frees them to terrorize law-abiding citizens of Milwaukee County and the surrounding suburbs.</p>
+<p>People charged with a crime are considered innocent until proven guilty. The stated goal of bail in Milwaukee is to incentivize defendants to show up for their court date so the bail amount is determined based on their likelihood of doing so. Jeff believes this law should be changed to include more consideration for the safety of the community.</p>
+<p>In a recent <a href="https://www.jsonline.com/story/news/local/milwaukee/2021/12/02/john-chisholm-discuss-low-bail-given-man-charged-waukesha-christmas-parade-attack-darrell-brooks/8814614002/" title="'A mistake:' Chisholm, chief judge explain low bail given to Waukesha parade suspect in earlier case" target="_blank" rel="noopener noreferrer">Milwaukee Journal Sentinel article</a>, Chisholm said that the low bail set for the individual in question was the result of an overburdened, somewhat new staff member determining bail prior to viewing the risk assessment. The court commissioner overseeing the trial that had access to the risk assessment also allowed this person to slip by with $1,000 bail.</p>
+<p>According to Chief Judge Mary Triggiano, the courts currently have a backlog of 1,600 felony cases and a misdemeanor backlog of about 3,100 cases owing in part to the court shutting down and restricting services during 2020; Milwaukee’s large upswing in violent crime most likely is also a contributor.</p>
+<p>It is difficult to judge Jeff’s argument without some sort of statistics to gauge how widespread the problem is; he spoke of two separate cases that made the news but that doesn’t give us a view of the overall picture. Unfortunately the county doesn’t appear to track this information. It would be immensely useful for the county to track,</p>
+<ol>
+<li>The number of defendants released on bail.</li>
+<li>The type of crime they are accused of.</li>
+<li>The price of granted bail.</li>
+<li>If arrested after posting bail, the type of crime they are accused of.</li>
+<li>Whether they are convicted of the accused crimes.</li>
+</ol>
+<p>Without the above information we are somewhat limited in determining the scope of the problem. What we can observe is if Milwaukee’s <a href="https://www.city-data.com/crime/crime-Milwaukee-Wisconsin.html" title="City-Data.com: Crime rate in Milwaukee, Wisconsin" target="null">crime rate</a> increased after Chisolm took office. During his 14 years in office there have been less than 100 murders in all but 6 years; still horrific but this this is an improvement over the 100+ homicides regularly seen since the 1990’s. The crime rate also dropped substantially reaching a nadir in 2019 prior to the pandemic, protests, riots and massive increase in violent crime around the United States. Looking at the <a href="https://city.milwaukee.gov/police/Information-Services/Crime-Maps-and-Statistics" target="_blank" rel="noopener noreferrer">Milwaukee Police Department crime map</a> 2019 saw a grand total of 23,492 crimes. 2021 appears likely to surpass 31,000 while most likely breaking 2020’s record for murders.</p>
+<p>The current bail system seems to already take into consideration a person’s past criminal conduct; the Waukesha tragedy, to me, seems like the result of an honest error coming from an overextended system. However, if the DA and judicial system are regularly releasing violent people from custody then that absolutely demands some significant changes.</p>
+<p>I feel confident that Chisholm staying or leaving office will make little difference towards fixing what ails Milwaukee. As of now, 50 years of policy-making has failed to make a real dent in American crime; sure there have been significant shifts over the years but the overall culture of criminality remains an ever present societal issue. Until the towns and neighborhoods where the vast majority of these crimes are committed find some way towards incremental improvements we will continue to see more of the same. Why has this become the standard way of life for so many people? Why have so many communities degraded to this point and what can we <em>really</em> do to fix it.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Linux Devices Require User Patience</title>
         <author>
@@ -24,7 +69,7 @@
             <category term="Librem 5"/>
             <category term="Expectations"/>
 
-        <updated>2021-09-27T15:26:08-05:00</updated>
+        <updated>2021-09-27T10:26:08-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/24/wesley-pribadi-iS1NV9yN0Lg-unsplash.jpg" alt="Many penguins standing on a rock in a mostly dark space." />
@@ -57,7 +102,7 @@
             <category term="Alderwoman Chantia Lewis"/>
             <category term="Alderman Mark Borkowski"/>
 
-        <updated>2021-05-26T14:11:41-05:00</updated>
+        <updated>2021-05-26T09:11:41-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/23/maxim-hopman-PEJHULxUHZs-unsplash.jpg" alt="Shadow on a home wall showing a gun pointed at a person with raised hands" />
@@ -113,7 +158,7 @@
             <category term="Bally Total Fitness"/>
             <category term="Bally Sports"/>
 
-        <updated>2021-05-26T14:11:50-05:00</updated>
+        <updated>2021-05-26T09:11:50-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/22/sportsScoresEasierFoundOnPhone.jpg" alt="Basketball players in Hong Kong with a large box obstructing the lower 10% of the picture." />
@@ -161,7 +206,7 @@
             <category term="Internxt"/>
             <category term="Encryption"/>
 
-        <updated>2021-05-26T14:13:11-05:00</updated>
+        <updated>2021-05-26T09:13:11-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/19/cookie-the-pom-gySMaocSdqs-unsplash.jpg" alt="Pomeranian dog wearing glasses while looking at an iPad." />
@@ -190,7 +235,7 @@
             <category term="Concordia College"/>
             <category term="CUW"/>
 
-        <updated>2020-12-30T09:02:37-06:00</updated>
+        <updated>2020-12-30T05:02:37-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/14/thenAndNow.jpeg" alt="Black and white picture of 4 story brick dormitory in the 1920&#x27;s. Old car and motorcycle parked out front." />
@@ -399,7 +444,7 @@
             <category term="Concordia College"/>
             <category term="CUW"/>
 
-        <updated>2020-12-24T15:13:37-06:00</updated>
+        <updated>2020-12-24T11:13:37-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/15/gym.jpg" alt="Two story brick gymnasium with &quot;Concordia College Gymnasium&quot; in limestone above the door." />
@@ -458,7 +503,7 @@
             <category term="Concordia College"/>
             <category term="CUW"/>
 
-        <updated>2020-12-24T22:52:21-06:00</updated>
+        <updated>2020-12-24T18:52:21-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/16/08.1-refectory-building.jpeg" alt="Two story brick refectory from an angle. A large smoke stack is visible on the roof. &quot;Concordia College&quot; in metal letters over the side entrance." />
@@ -485,7 +530,7 @@ Your browser does not support the audio element.</audio></p>
             <category term="Wgema Campus"/>
             <category term="Concordia College"/>
 
-        <updated>2021-05-26T14:14:51-05:00</updated>
+        <updated>2021-05-26T09:14:51-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/17/2006.jpeg" alt="Old 3.5 story brick college building with leave-less trees flanking it in front." />
@@ -532,7 +577,7 @@ Your browser does not support the audio element.</audio></p>
             <category term="Election"/>
             <category term="Absentee Ballot"/>
 
-        <updated>2020-11-15T08:03:25-06:00</updated>
+        <updated>2020-11-15T04:03:25-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/9/joshua-woroniecki-nSbsfmvURt8-unsplash.jpg" alt="The stars from the American flag with a card laying on top of the stripes that says &quot;BALLOT ENCLOSED&quot; " />
@@ -607,7 +652,7 @@ Your browser does not support the audio element.</audio></p>
             <category term="Open Source"/>
             <category term="Email"/>
 
-        <updated>2020-10-12T10:54:44-05:00</updated>
+        <updated>2020-10-12T05:54:44-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/8/fongit-2.jpg" alt="Picture of ProtonMail&#x27;s 5 story teal office building in Geneva." />
@@ -651,7 +696,7 @@ Your browser does not support the audio element.</audio></p>
             <category term="Wisconsin"/>
             <category term="Governor"/>
 
-        <updated>2020-10-11T15:28:14-05:00</updated>
+        <updated>2020-10-11T10:28:14-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/7/Wisconsin_Supreme_Court-3.jpg" alt="Court room of the Wisconsin Supreme Court in Madison&#x27;s state capitol building." />
@@ -713,7 +758,7 @@ Your browser does not support the audio element.</audio></p>
             <category term="Apple"/>
             <category term="Android"/>
 
-        <updated>2020-06-13T15:45:31-05:00</updated>
+        <updated>2020-06-13T10:45:31-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
@@ -766,11 +811,11 @@ Your browser does not support the audio element.</audio></p>
             <category term="Grid"/>
             <category term="Bus Routes"/>
 
-        <updated>2020-12-26T11:35:56-06:00</updated>
+        <updated>2020-12-26T07:35:56-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
-                     Inspired by an article from Strong Towns discussing Indianapolis' new route trials it provides an alternative system design. To explore a&hellip;
+                    Inspired by an article from Strong Towns discussing Indianapolis' new route trials it provides an alternative system design. To explore a prospective&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -810,7 +855,7 @@ Your browser does not support the audio element.</audio></p>
             <category term="Firefox"/>
             <category term="Brave"/>
 
-        <updated>2020-10-18T22:52:27-05:00</updated>
+        <updated>2020-10-18T17:52:27-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
@@ -891,7 +936,7 @@ Your browser does not support the audio element.</audio></p>
             <category term="Privacy"/>
             <category term="MPD"/>
 
-        <updated>2021-01-01T10:55:45-06:00</updated>
+        <updated>2021-01-01T06:55:45-10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/2/Kiosk-Rendering.png" alt="" />
