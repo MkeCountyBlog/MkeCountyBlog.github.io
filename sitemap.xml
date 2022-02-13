@@ -449,7 +449,13 @@
 <loc>https://MkeCountyBlog.com/tags/crime/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/tags/cupcakes/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/tags/cuw/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/tags/desert-dome/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/election/</loc>
@@ -515,6 +521,9 @@
 <loc>https://MkeCountyBlog.com/tags/milwaukee-county/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/tags/mitchell-park-domes/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/tags/mpd/</loc>
 </url>
 <url>
@@ -528,6 +537,9 @@
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/patience/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/tags/photography/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/pocket/</loc>
@@ -572,6 +584,12 @@
 <loc>https://MkeCountyBlog.com/tags/thunderbird/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/tags/trains/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/tags/tropical-dome/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/tags/wallabag/</loc>
 </url>
 <url>
@@ -585,6 +603,9 @@
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/wgema-campus/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/tags/winter/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/wisconsin/</loc>
@@ -609,6 +630,30 @@
 <image:image>
 <image:loc>https://MkeCountyBlog.com/media/posts/19/cookie-the-pom-gySMaocSdqs-unsplash.jpg</image:loc>
 <image:title><![CDATA[Pomeranian dog wearing glasses while looking at an iPad.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/to-the-domes.html</loc>
+<lastmod>2022-02-13T14:47:58-06:00</lastmod>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/26/domes3.jpeg</image:loc>
+<image:title><![CDATA[A view of the garden dome with two domes in the distance.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/26/gallery/domes1-thumbnail.jpg</image:loc>
+<image:title><![CDATA[The Show Dome with barren trees visible outside.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/26/gallery/domes6-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[A spiky desert plant.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/26/gallery/domes5-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[A view upwards towards to top of the dome with treetops visible.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/26/gallery/domes4-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[The lush tropical trees and plants of the Tropical Dome.]]></image:title>
 </image:image>
 </url>
 <url>

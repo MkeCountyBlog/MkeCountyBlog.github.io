@@ -3,12 +3,65 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2021-12-14T21:00:05-06:00</updated>
+    <updated>2022-02-13T14:47:58-06:00</updated>
     <author>
         <name>Colin White</name>
     </author>
     <id>https://MkeCountyBlog.com</id>
 
+    <entry>
+        <title>To The Domes!</title>
+        <author>
+            <name>Colin White</name>
+        </author>
+        <link href="https://MkeCountyBlog.com/to-the-domes.html"/>
+        <id>https://MkeCountyBlog.com/to-the-domes.html</id>
+            <category term="Winter"/>
+            <category term="Tropical Dome"/>
+            <category term="Trains"/>
+            <category term="Photography"/>
+            <category term="Mitchell Park Domes"/>
+            <category term="Milwaukee County"/>
+            <category term="Desert Dome"/>
+            <category term="Cupcakes"/>
+
+        <updated>2022-02-13T14:47:58-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MkeCountyBlog.com/media/posts/26/domes3.jpeg" alt="A view of the garden dome with two domes in the distance." />
+                    I last ventured to the Mitchell Park Domes several years ago to experience the very underwhelming and misleadingly named Cupcake&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MkeCountyBlog.com/media/posts/26/domes3.jpeg" alt="A view of the garden dome with two domes in the distance." />
+                <p>I last ventured to the Mitchell Park Domes several years ago to experience the very underwhelming and misleadingly named Cupcake Fest (only one cupcake vendor 😭!) My home has since added a son and my in-laws so Jenny and I decided to help them break up their first winter with a trip to the domes. The popular <a href="https://milwaukeedomes.org/show-dome-exhibits" title="Rotating Exhibits / Events" target="_blank" rel="noopener noreferrer">train show</a> is here and coronavirus restrictions limit the capacity so the domes are quite spacious. A few observations follow.</p>
+<ul>
+<li>Jumping directly from months of dull-colored winter scenery to brightly colored flowers without spring in between or travel is disorienting initially. My body was slightly unnerved.</li>
+<li>The structure of the domes looks better in photographs then in person.</li>
+<li>The Desert Dome is not as warm as I remember (maybe 70°F.) Perhaps my memory is wrong or the tight county budget forced them to cool it down?</li>
+<li>The trees are more enjoyable then the plants. Trees draw attention upwards which allows for the simultaneous viewing of treetops and the geodesic dome. Perhaps I'm lazy and enjoy not having to focus too closely on the smaller, tucked away plants.</li>
+<li>Capturing the massive scale of trees is difficult with photography. I had the same issue on a trip to Hawaii where I failed to capture the incredible largeness of a banyan tree.</li>
+<li>The Tropical Dome is the best; a higher proportion of exotic plants and a temperature that required the removal of my coat.</li>
+</ul>
+<p>All said and done it was a much more satisfying trip.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://MkeCountyBlog.com/media/posts/26/gallery/domes1.jpg" data-size="1200x1600"><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/26/gallery/domes1-thumbnail.jpg" alt="The Show Dome with barren trees visible outside." width="720" height="960"></a>
+<figcaption>Not convinced it's winter? Just take a look outside 😉. © Colin White</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://MkeCountyBlog.com/media/posts/26/gallery/domes6.jpeg" data-size="1200x1600"><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/26/gallery/domes6-thumbnail.jpeg" alt="A spiky desert plant." width="720" height="960"></a>
+<figcaption>© Colin White</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://MkeCountyBlog.com/media/posts/26/gallery/domes5.jpeg" data-size="1200x1600"><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/26/gallery/domes5-thumbnail.jpeg" alt="A view upwards towards to top of the dome with treetops visible." width="720" height="960"></a>
+<figcaption>© Colin White</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://MkeCountyBlog.com/media/posts/26/gallery/domes4.jpeg" data-size="1600x1200"><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/26/gallery/domes4-thumbnail.jpeg" alt="The lush tropical trees and plants of the Tropical Dome." width="720" height="540"></a>
+<figcaption>The lush, beautiful Tropical Dome© Colin White</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Role Of Bail On Milwaukee Crime Increases</title>
         <author>
@@ -815,7 +868,7 @@ Your browser does not support the audio element.</audio></p>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
-                     Inspired by an article from Strong Towns discussing Indianapolis' new route trials it provides an alternative system design. To explore a&hellip;
+                    Inspired by an article from Strong Towns discussing Indianapolis' new route trials it provides an alternative system design. To explore a prospective&hellip;
                 ]]>
             </summary>
         <content type="html">
