@@ -3,12 +3,64 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2022-02-13T14:53:31-06:00</updated>
+    <updated>2022-03-15T16:37:57-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
     <id>https://MkeCountyBlog.com</id>
 
+    <entry>
+        <title>Feedbin, Feedly, &amp; Inoreader - How Two Feed Readers Forgot The Fundamentals</title>
+        <author>
+            <name>Colin White</name>
+        </author>
+        <link href="https://MkeCountyBlog.com/feedbin-feedly-and-inoreader-how-two-feed-readers-forgot-the-fundamentals.html"/>
+        <id>https://MkeCountyBlog.com/feedbin-feedly-and-inoreader-how-two-feed-readers-forgot-the-fundamentals.html</id>
+            <category term="RSS"/>
+            <category term="Podcast"/>
+            <category term="Open Source"/>
+            <category term="Feedly"/>
+            <category term="Feedbin"/>
+            <category term="Feed Reader"/>
+            <category term="AI"/>
+
+        <updated>2022-03-15T16:37:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MkeCountyBlog.com/media/posts/27/donald-giannatti-8NYX8bVvPiQ-unsplash.jpg" alt="A single Aspen tree stands brilliant against a sea of green." />
+                    Early in 2020 I made the shift from self-hosting with Tiny Tiny RSS then FreshRSS to buying an annual Feedbin&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MkeCountyBlog.com/media/posts/27/donald-giannatti-8NYX8bVvPiQ-unsplash.jpg" alt="A single Aspen tree stands brilliant against a sea of green." />
+                <p>Early in 2020 I made the shift from self-hosting with Tiny Tiny RSS then FreshRSS to buying an annual <a href="https://feedbin.com" title="Feedbin" target="_blank" rel="noopener noreferrer">Feedbin</a> subscription. The features I like with Feedbin include,</p>
+<ul>
+<li>Proxies all remote connections so a bunch of advertisers can't follow me around the internet. Overall a <a href="https://feedbin.com/blog/2018/09/11/private-by-default/" title="Private by Default" target="_blank" rel="noopener noreferrer">strong design emphasis on privacy</a>.</li>
+<li>Visually pleasant to use and read; I especially enjoy the smooth slide transition when swiping left and right between the article list and the article.</li>
+<li>Fantastic podcast support.
+<ul>
+<li>You listen in the app and can read other articles while it plays in the background.</li>
+<li>Playing position is tracked across devices. Start playing on your phone and switch to the desktop. Easy!</li>
+<li>There is a 'Recently Played' section in addition to the more common 'Recently Read' section.</li>
+</ul>
+</li>
+<li>Open source - not a requirement but I like to encourage it where possible.</li>
+</ul>
+<p>After reading that <a href="https://marginalrevolution.com/?s=feedly" title="Marginal Revolution Results For “feedly”" target="_blank" rel="noopener noreferrer">Tyler uses Feedly</a> I started to think the grass may be greener and started trying out the competition. <a href="https://feedly.com" title="Feedly" target="_blank" rel="noopener noreferrer">Feedly</a> is beautiful and has some features that cause it to stand out from the pack.</p>
+<ul>
+<li>Uses AI to highlight key points within an article which can be a big time saver.</li>
+<li>Uses AI to create a 'priority' list which improves as you give feedback. (😎 Very cool!)</li>
+<li>Customize every little thing.</li>
+<li>Also proxies images.</li>
+<li>Can create a feed from websites without a Atom/RSS feed.</li>
+</ul>
+<p>Feedly is pricey in relation to other feed readers (Annual as of 3/15/2022: Feedly $144; Inoreader $69.96; Feedbin $50) but I believe the extra features may justify it. If you need or want to process tons of articles in an efficient way, Feedly is a great way to bring  what you actually want to read to the top. However, the reason I canceled Feedly is they automatically mark articles older then 30 days read which is very annoying with podcasts or new feeds that you may want to read from the beginning. I was impressed with their customer support as they issued a full refund by 7am the day after an 11pm request with no hassle at all.</p>
+<p><a href="https://www.inoreader.com/" title="Inoreader" target="_blank" rel="noopener noreferrer">Inoreader</a> is another popular choice with a great interface and many ways to tailor the look and functionality to individual tastes. I spent very little time with it but the functionality seems similar to Feedly and the price is considerably lower. Their refund process was also very simple with a morning refund after an evening email.</p>
+<p>In the end Feedbin remained the clear champ for my reading/listening flow. The other two readers podcast support is weak and the shiny features weren't quite enough to overcome the flaws in their basic functionality. In another year or so that may not be the case.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>To The Domes!</title>
         <author>
@@ -868,7 +920,7 @@ Your browser does not support the audio element.</audio></p>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
-                    Inspired by an article from Strong Towns discussing Indianapolis' new route trials it provides an alternative system design. To explore a prospective&hellip;
+                     Inspired by an article from Strong Towns discussing Indianapolis' new route trials it provides an alternative system design. To explore a&hellip;
                 ]]>
             </summary>
         <content type="html">
