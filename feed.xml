@@ -3,12 +3,55 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2022-04-26T17:09:55-05:00</updated>
+    <updated>2022-06-10T14:56:30-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
     <id>https://MkeCountyBlog.com</id>
 
+    <entry>
+        <title>The St. Louis Idea – Build Momentum</title>
+        <author>
+            <name>Colin White</name>
+        </author>
+        <link href="https://MkeCountyBlog.com/the-st-louis-idea-build-momentum.html"/>
+        <id>https://MkeCountyBlog.com/the-st-louis-idea-build-momentum.html</id>
+            <category term="Venture Capital"/>
+            <category term="Tyler Cowen"/>
+            <category term="St. Louis Idea"/>
+            <category term="St. Louis"/>
+            <category term="Sam Altman"/>
+            <category term="Momentum"/>
+            <category term="Midwest"/>
+
+        <updated>2022-06-10T14:56:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MkeCountyBlog.com/media/posts/30/StLouisbrittney-butler-uZnoD1xuL9A-unsplash.jpg" alt="The Old St. Louis County Courthouse with the St. Louis Arch in the background." />
+                    On an old episode of Conversations With Tyler Tyler Cowen asked St. Louis native Sam Altman the following, If you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MkeCountyBlog.com/media/posts/30/StLouisbrittney-butler-uZnoD1xuL9A-unsplash.jpg" alt="The Old St. Louis County Courthouse with the St. Louis Arch in the background." />
+                <p>On <a href="https://conversationswithtyler.com/episodes/sam-altman/" title="Sam Altman on Loving Community, Hating Coworking, and the Hunt for Talent (Ep. 61 - Live in SF)" target="_blank" rel="noopener noreferrer">an old episode of Conversations With Tyler</a> Tyler Cowen asked St. Louis native <a href="https://en.wikipedia.org/wiki/Sam_Altman" title="Sam Altman" target="_blank" rel="noopener noreferrer">Sam Altman</a> the following,</p>
+<blockquote>
+<p>If you had, say, $200 million to distribute, you could do with it whatever you wanted to help St. Louis — just St. Louis, not the world — what would you do to help St. Louis?</p>
+</blockquote>
+<p>St. Louis, like most Midwestern cities, flourished until the 1960's at which point a steep economic decline ensued along with an exodus of people; they have been stagnant since. As these cities have been outdone by the Southeastern United States and coastal cities, they badly need to implement new ways of doing things that have the potential to spark a return to forward momentum. For all of the small improvements we have seen in Milwaukee and similar cities, all of the <a href="https://realestate.usnews.com/places/rankings/fastest-growing-places" title="Fastest-Growing Places in the U.S. in 2022-2023" target="_blank" rel="noopener noreferrer">fastest growing places</a> are in other regions. Sam's response below.</p>
+<blockquote>
+<p>No, literally what I would do is make a venture capital fund, get really good GPs [general partners] to do the advice, and fund the companies to come be in St. Louis.</p>
+</blockquote>
+<blockquote>
+<p>St. Louis has lost momentum, and there has been the talent drain that you would expect from that. So I would spend all of the money trying to get a few really interesting, high-growth startups that I was confident in to go move to the city of St. Louis and build enough of an ecosystem around them to make them successful and let that regenerate the talent pool in much of the city.</p>
+</blockquote>
+<blockquote>
+<p>I would just invest in them on the condition they move to St. Louis. We talked earlier about the importance of a network effect. Rather than do this for one or two companies at a time, I would do it for enough at once, get them all in one part of the city to form something like what Y Combinator has done here.</p>
+</blockquote>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Let Milwaukee Build</title>
         <author>
@@ -966,7 +1009,7 @@ Your browser does not support the audio element.</audio></p>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
-                    Inspired by an article from Strong Towns discussing Indianapolis' new route trials it provides an alternative system design. To explore a prospective&hellip;
+                     Inspired by an article from Strong Towns discussing Indianapolis' new route trials it provides an alternative system design. To explore a&hellip;
                 ]]>
             </summary>
         <content type="html">
