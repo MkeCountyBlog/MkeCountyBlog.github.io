@@ -518,11 +518,9 @@ a.pswp__share--download:hover {
 .pswp__caption {
 	position: absolute;
 	left: 0;
-	/*CHANGED FROM bottom: 2rem; ADDED BACKGROUND*/
-	bottom: 0rem;
+	bottom: 2rem;
 	width: 100%;
 	min-height: 3rem;
-	background: #275090;
 }
 
 .pswp__caption small {
@@ -534,12 +532,10 @@ a.pswp__share--download:hover {
 	text-align: center;
 	max-width: calc(38rem + 8%);
 	margin: 0 auto;
-	/*CHANGED FROM font-size: 13px;*/
-	font-size: 18px;
+	font-size: 13px;
 	padding: 1rem 4%;
 	line-height: 20px;
-	/*CHANGED FROM color: #CCC;*/
-	color: var(--white);
+	color: #CCC;
 	
 }
 
