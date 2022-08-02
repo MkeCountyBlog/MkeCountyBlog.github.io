@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2022-06-25T09:22:03-05:00</updated>
+    <updated>2022-08-01T19:06:57-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -63,7 +63,7 @@
             <category term="Death"/>
             <category term="Construction"/>
 
-        <updated>2022-06-23T17:18:13-05:00</updated>
+        <updated>2022-08-01T19:06:57-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/31/I94ewRebuild-2.png" alt="Map displaying proposed section of I-94 to be rebuilt" />
@@ -96,7 +96,6 @@
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/31/I94ewRebuildTrafficOperations.png" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-xs.png 300w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-sm.png 480w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-md.png 768w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-2xl.png 1600w"  alt="Traffic Operations by Alternatives" width="1600" height="1036">
 <figcaption >Pardon the weird coloring. I snapped a picture of this board at the meeting. The 8 lane options seem to get rid of most of the congestion. © MCB - Colin White</figcaption>
 </figure>
-<p> </p>
             ]]>
         </content>
     </entry>
