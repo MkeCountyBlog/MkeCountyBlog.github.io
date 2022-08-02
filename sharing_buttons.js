@@ -12,7 +12,7 @@ function AddSharingButtons(selector, options) {
         title: document.title,
         text: (document.querySelector('meta[name=description]') || {}).content || '',
         image: (document.querySelector('meta[property="og:image"]') || {}).content || '',
-        //labelHtml: '<div class="share-label">Share this:</div>'
+        labelHtml: ''
     };
     for (var key in OPTION_DEFAULTS) {
         if (!options.hasOwnProperty(key)) {
@@ -74,8 +74,8 @@ function AddSharingButtons(selector, options) {
     for (var i = 0; i < containers.length; i++) {
 
         // Add the 'share this' label if present
-        //var container = containers[i];
-        //container.innerHTML = options.labelHtml;
+        var container = containers[i];
+        container.innerHTML = options.labelHtml;
 
         // Add buttons for each chosen service
         options.services.split(' ').forEach(function(serviceName) {
