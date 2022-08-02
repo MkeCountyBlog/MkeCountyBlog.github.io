@@ -2,6 +2,7 @@
 
 .sharing-buttons {
     text-align: center;
+	margin-top: 2.2666666667rem;
 }
 
 .sharing-buttons > .share-label {
@@ -18,7 +19,7 @@
     text-align: center;
     border-radius: 3px;
     margin-right: 6px;
-    width: 25px;
+    width: 100px;
     height: 25px;
     box-shadow: 0 0 5px #00000042;
 }
