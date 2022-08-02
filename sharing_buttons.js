@@ -74,8 +74,8 @@ function AddSharingButtons(selector, options) {
     for (var i = 0; i < containers.length; i++) {
 
         // Add the 'share this' label if present
-        var container = containers[i];
-        container.innerHTML = options.labelHtml;
+        //var container = containers[i];
+        //container.innerHTML = options.labelHtml;
 
         // Add buttons for each chosen service
         options.services.split(' ').forEach(function(serviceName) {
