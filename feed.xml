@@ -3,19 +3,19 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2022-08-07T13:22:00-05:00</updated>
+    <updated>2022-08-07T13:37:57-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
     <id>https://MkeCountyBlog.com</id>
 
     <entry>
-        <title>Absentee Voting System Vulnerability Demonstrated</title>
+        <title>Fix For Demonstrated Absentee Voting Vulnerability</title>
         <author>
             <name>Colin White</name>
         </author>
-        <link href="https://MkeCountyBlog.com/absentee-voting-system-vulnerability-demonstrated.html"/>
-        <id>https://MkeCountyBlog.com/absentee-voting-system-vulnerability-demonstrated.html</id>
+        <link href="https://MkeCountyBlog.com/fix-for-demonstrated-absentee-voting-vulnerability.html"/>
+        <id>https://MkeCountyBlog.com/fix-for-demonstrated-absentee-voting-vulnerability.html</id>
             <category term="Wisconsin Elections Commission"/>
             <category term="Wisconsin"/>
             <category term="Vulnerability Reporting"/>
@@ -27,7 +27,7 @@
             <category term="Can&#x27;t see the forest for the trees"/>
             <category term="Absentee Ballot"/>
 
-        <updated>2022-08-07T13:22:00-05:00</updated>
+        <updated>2022-08-07T13:37:57-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/33/david-clode-3udd_NEmgDs-unsplash.jpg" alt="The head of this crocodile in a pond just looks like a log or rock covered in duckweed until you spot the eye looking at you." />
