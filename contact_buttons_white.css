@@ -29,7 +29,7 @@
     top: 14%;
     width: 72%;
     height: 72%;
-    color: #b7b7b7;
+    color: white; /*changed from #b7b7b7;*/
 }
 
 .contacting-buttons > a.twitter:hover {
@@ -41,7 +41,7 @@
 }
 
 .contacting-buttons > a.email:hover {
-    background-color: #32506d;
+    background-color: #6d4aff; /*changed from #32506d;*/
 }
 
 .contacting-buttons > a.reddit:hover {
