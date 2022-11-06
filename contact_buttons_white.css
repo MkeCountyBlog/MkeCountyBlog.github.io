@@ -18,7 +18,7 @@
     margin-right: 6px;
     width: 26px;
     height: 26px;
-    background-color: white;
+    background-color: none;
     transition: background-color 0.5s;
 }
 

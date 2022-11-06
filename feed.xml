@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/cwt-quotations-blattman-and-gross.html"/>
         <id>https://MkeCountyBlog.com/cwt-quotations-blattman-and-gross.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/38/juri-gianfrancesco-rTFS5bQrXZk-unsplash_trimmed-2.jpg" medium="image" />
             <category term="University of Chicago"/>
             <category term="Tyler Cowen"/>
             <category term="Diet Coke"/>
@@ -31,7 +32,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/38/juri-gianfrancesco-rTFS5bQrXZk-unsplash_trimmed-2.jpg" alt="Two men talking outside of a bar/cafe." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/38/juri-gianfrancesco-rTFS5bQrXZk-unsplash_trimmed-2.jpg" class="type:primaryImage" alt="Two men talking outside of a bar/cafe." /></p>
                 <p>A couple quotations from some recent Conversations With Tyler. First up a conversation from May 4th, 2022 with <a href="https://conversationswithtyler.com/episodes/chris-blattman-whywefight/" title="Chris Blattman on War and Centralized Power (Ep. 149)" target="_blank" rel="noopener noreferrer">University of Chicago professor Chris Blattman</a>. University of Chicago strikes me as the ideal university environment; compare their ratings with <a href="https://MkeCountyBlog.com/marquette-and-wisconsin-disappoint-in-college-free-speech-rankings.html" title="Marquette &amp; Wisconsin Disappoint In College Free Speech Rankings" target="_blank" rel="noopener noreferrer">some Wisconsin universities</a>.</p>
 <blockquote>
 <p><strong>COWEN: </strong>Last question. You teach at the University of Chicago. It still seems, to me, the place has a special ethos, a mix of seriousness, people teaching things to themselves, showing up meaning business, free speech, some cluster of ideas. How has the University of Chicago maintained that? What’s the secret there?<br><br><strong>BLATTMAN:</strong> I selected this place six years ago. In large part, that was one of its chief attractions, and I’ve asked myself that question. There’s a cheap answer, which is cultural persistence, but then, the question is why?<br><br><strong>COWEN: </strong>So many university cultures have changed, right?<br><br><strong>BLATTMAN:</strong> Maybe I’m going to go back and contradict myself — the political speech point. I think the university built its social identity around being that, and the reason you can point out this thing is not . . . Even if you didn’t spend any time there, you would be able to say that is the identity of this university because that’s what they say they are, and they show up in the news because they’re the university that does that.<br><br>It shouldn’t be surprising that a university has done that. <strong>The question is, why haven’t more universities done that?</strong> I was faculty at Yale, and I was faculty at Columbia, and they were many great things, but <strong>they were not places that self-consciously define themselves as places to be about ideas and about ideas at all costs</strong>. So it’s only in retrospect that I wonder why not.</p>
@@ -52,6 +53,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/marquette-and-wisconsin-disappoint-in-college-free-speech-rankings.html"/>
         <id>https://MkeCountyBlog.com/marquette-and-wisconsin-disappoint-in-college-free-speech-rankings.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/35/jonah-brown-qt9V4RRZvOg-unsplash-2.jpg" medium="image" />
             <category term="University of Wisconsin"/>
             <category term="Ratings"/>
             <category term="Marquette University"/>
@@ -67,7 +69,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/35/jonah-brown-qt9V4RRZvOg-unsplash-2.jpg" alt="Students sitting in green grass at Marquette University with college buildings in background." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/35/jonah-brown-qt9V4RRZvOg-unsplash-2.jpg" class="type:primaryImage" alt="Students sitting in green grass at Marquette University with college buildings in background." /></p>
                 <p>The University of Wisconsin and Marquette University ranked average and below average respectively in the FIRE and College Plus <a href="https://rankings.thefire.org/" title="College Pulse Fire 2022-2023 College Free Speech Rankings" target="_blank" rel="noopener noreferrer">2022-2023 College Free Speech Rankings</a>. Wisconsin <a href="https://rankings.thefire.org/rank/school/university-of-wisconsin-madison" title="University of Wisconsin" target="_blank" rel="noopener noreferrer">ranked #98</a> out of 208 schools with low ratings in most categories. Marquette <a href="https://rankings.thefire.org/rank/school/marquette-university" title="Marquette University" target="_blank" rel="noopener noreferrer">ranked #184</a> out of 208 and has especially low ratings for everything except disruptive conduct.</p>
 <p>Every school on the list, including #1 University of Chicago, lists quotes from students that feel they must hide thoughts that oppose the popular opinion of either their professors or fellow students in order to pass a class or not be socially shunned. The ratings were calculated from student survey results so this essentially provides a sampling of student perceptions of their chosen schools' speech climate. Unease appears to be common across the board.</p>
 <p>These students notice, or at least believe, that their university does not respond well to differing opinions so they submit to the status quo to avoid retribution on their way to a diploma. I wonder how many of these students have voiced a (perceived) unpopular opinion in class or elsewhere? One person mentions that they don't want to discuss abortion at Marquette because "most students on campus are anti-choice." This represents an old problem; societies do not tend to encourage or enjoy people that push against what's expected. Expectations differ from group to group but the general principal remains. Could it be fear of a harsh reproach stops people from even trying it out or have these students witnessed repercussions firsthand? Perhaps this is what makes recognizing the problem and moving away from it such a slog (which people will also avoid.)</p>
@@ -82,6 +84,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/turn-sport-commentators-off.html"/>
         <id>https://MkeCountyBlog.com/turn-sport-commentators-off.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/36/ESPN_College_Football_set_at_the_2018_College_Football_Playoff_National_Championship_media_day-2.jpg" medium="image" />
             <category term="Washington State University"/>
             <category term="Unnecessary Statistics"/>
             <category term="University of Wisconsin"/>
@@ -103,7 +106,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/36/ESPN_College_Football_set_at_the_2018_College_Football_Playoff_National_Championship_media_day-2.jpg" alt="ESPN College Football set at the 2018 College Football Playoff National Championship media day." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/36/ESPN_College_Football_set_at_the_2018_College_Football_Playoff_National_Championship_media_day-2.jpg" class="type:primaryImage" alt="ESPN College Football set at the 2018 College Football Playoff National Championship media day." /></p>
                 <p>Sports commentators exist to fill all potential time viewers could have to think for themselves; the incessant talking and their overconfidence is an endless, unpleasant, distraction from the competition. They tell you the what and why of everything and repeat it over and over and over some more. For many years I have hoped sports networks would create a separate audio channel with only crowd noise and game sounds since these actually enhance the experience. MLB.TV has this but local games are blacked out so it’s not particularly useful for those that like to watch live.</p>
 <p>I long to watch a game without the hollow commentator banter that only occasionally breaks away to a contractually obligated coach/player interview where we are treated to someone practiced in the ways of generalities and platitudes. They understandably speak that way in order to avoid offering opponents (or the press) actionable information but it provides nothing of substance.</p>
 <blockquote>
@@ -124,6 +127,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/the-collected-stories-of-lydia-davis-problem.html"/>
         <id>https://MkeCountyBlog.com/the-collected-stories-of-lydia-davis-problem.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/34/patrick-tomasso-Oaqk7qqNh_c-unsplashBooks.jpg" medium="image" />
             <category term="Y Chromosome"/>
             <category term="Questions"/>
             <category term="Books"/>
@@ -137,7 +141,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/34/patrick-tomasso-Oaqk7qqNh_c-unsplashBooks.jpg" alt="Open books pinned to a wall creating a collage." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/34/patrick-tomasso-Oaqk7qqNh_c-unsplashBooks.jpg" class="type:primaryImage" alt="Open books pinned to a wall creating a collage." /></p>
                 <p>/ = is in a relationship with<br>$ = gets money from</p>
 <p><strong>X</strong> ($Z)(female) / <strong>Y</strong> (male)<br><strong>W</strong> ($Y+$V)(female) + child (V) / <strong>U</strong> (male, no support to W's child) - Lives in NY<br><strong>V</strong> (male) - Wants to move to Chicago but child lives in NY<br><strong>T</strong> ($U)(female) + child (U) - Lives in NY</p>
 <ol>
@@ -156,6 +160,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/a-fix-for-demonstrated-absentee-voting-vulnerability.html"/>
         <id>https://MkeCountyBlog.com/a-fix-for-demonstrated-absentee-voting-vulnerability.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/33/david-clode-3udd_NEmgDs-unsplash.jpg" medium="image" />
             <category term="Wisconsin Elections Commission"/>
             <category term="Wisconsin"/>
             <category term="Vulnerability Reporting"/>
@@ -176,7 +181,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/33/david-clode-3udd_NEmgDs-unsplash.jpg" alt="The head of this crocodile in a pond just looks like a log or rock covered in duckweed until you spot the eye looking at you." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/33/david-clode-3udd_NEmgDs-unsplash.jpg" class="type:primaryImage" alt="The head of this crocodile in a pond just looks like a log or rock covered in duckweed until you spot the eye looking at you." /></p>
                 <p>From a <a href="https://www.wpr.org/racine-county-man-admits-fraudulent-requests-absentee-ballots-effort-criticize-state-voting-system" title="Racine County man admits to fraudulent requests for absentee ballots in effort to criticize state voting system" target="_blank" rel="noopener noreferrer">Wisconsin Public Radio article</a> last Thursday,</p>
 <blockquote>
 <p>In a series of interviews with media outlets including Wisconsin Public Radio, Harry Wait of Dover said he used the state's <a href="https://myvote.wi.gov/en-us/" target="_blank" rel="noopener noreferrer">online voter portal</a> to request absentee ballots for Assembly Speaker Robin Vos, a Republican from Rochester, and Racine Mayor Cory Mason, Democrat.</p>
@@ -221,6 +226,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/common-council-makes-things-worse-again.html"/>
         <id>https://MkeCountyBlog.com/common-council-makes-things-worse-again.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/32/nazrin-babashova-lhVRa24EOSA-unsplash.jpg" medium="image" />
             <category term="Milwaukee Common Council"/>
             <category term="Maps"/>
             <category term="Licensing"/>
@@ -237,7 +243,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/32/nazrin-babashova-lhVRa24EOSA-unsplash.jpg" alt="Burger King on a foggy night. " />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/32/nazrin-babashova-lhVRa24EOSA-unsplash.jpg" class="type:primaryImage" alt="Burger King on a foggy night. " /></p>
                 <blockquote>
 <p>“We understand the circumstances,” said Velarde. He said the day before the homicide an employee was shot at by a customer. “<strong>It’s a problem and it is bigger than us [this Burger King].</strong>”</p>
 </blockquote>
@@ -261,6 +267,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/i-94-east-west-rebuild-8-lanes-please.html"/>
         <id>https://MkeCountyBlog.com/i-94-east-west-rebuild-8-lanes-please.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/31/I94ewRebuild-2.png" medium="image" />
             <category term="Wisconsin DOT"/>
             <category term="Traffic"/>
             <category term="Pollution"/>
@@ -277,7 +284,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/31/I94ewRebuild-2.png" alt="Map displaying proposed section of I-94 to be rebuilt" />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/31/I94ewRebuild-2.png" class="type:primaryImage" alt="Map displaying proposed section of I-94 to be rebuilt" /></p>
                 <p>Below is a copy of feedback I emailed to the Wisconsin DOT after attending a June 15th public involvement meeting at Marquette High School. Before that are some thoughts that came up after the fact. I look forward to hearing your thoughts!</p>
 <h4>Thoughts &amp; Questions</h4>
 <ul>
@@ -298,7 +305,7 @@
 <p>I’m glad to see highway ramps universally placed on the right side of I-94 thus allowing the fast lane to maintain a steady, uninterrupted flow. In regards to concerns about the negative effects of pollution on nearby neighborhoods I imagine large amounts of slow moving cars would create larger concentrations of pollution in the area compared to faster moving traffic although this assumption may well be incorrect. Here is one study on the subject that appears to agree with my assumption, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4243514/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4243514/</a>.</p>
 <p>It is vital to the region that bottlenecks along that part of the highway are minimized to allow for the efficient movement of people and goods around our area. Places west of Milwaukee are growing rapidly and the Milwaukee to Madison route connects the state’s two largest metro areas.</p>
 <p>Many thanks for your years of work regardless of the final decision; let’s get this built!</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/31/I94ewRebuildTrafficOperations.png" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-xs.png 300w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-sm.png 480w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-md.png 768w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-2xl.png 1600w"  alt="Traffic Operations by Alternatives" width="1600" height="1036">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/31/I94ewRebuildTrafficOperations.png" alt="Traffic Operations by Alternatives" width="1600" height="1036" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-xs.png 300w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-sm.png 480w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-md.png 768w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/31/responsive/I94ewRebuildTrafficOperations-2xl.png 1600w">
 <figcaption >Pardon the weird coloring. I snapped a picture of this board at the meeting. The 8 lane options seem to get rid of most of the congestion. © MCB - Colin White</figcaption>
 </figure>
             ]]>
@@ -311,6 +318,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/the-st-louis-idea-build-momentum.html"/>
         <id>https://MkeCountyBlog.com/the-st-louis-idea-build-momentum.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/30/StLouisbrittney-butler-uZnoD1xuL9A-unsplash.jpg" medium="image" />
             <category term="Venture Capital"/>
             <category term="Tyler Cowen"/>
             <category term="St. Louis Idea"/>
@@ -328,7 +336,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/30/StLouisbrittney-butler-uZnoD1xuL9A-unsplash.jpg" alt="The Old St. Louis County Courthouse with the St. Louis Arch in the background." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/30/StLouisbrittney-butler-uZnoD1xuL9A-unsplash.jpg" class="type:primaryImage" alt="The Old St. Louis County Courthouse with the St. Louis Arch in the background." /></p>
                 <p>On an <a href="https://conversationswithtyler.com/episodes/sam-altman/" title="Sam Altman on Loving Community, Hating Coworking, and the Hunt for Talent (Ep. 61 - Live in SF)" target="_blank" rel="noopener noreferrer">old episode of Conversations With Tyler</a> from 2019, Tyler Cowen asked St. Louis native <a href="https://en.wikipedia.org/wiki/Sam_Altman" title="Sam Altman" target="_blank" rel="noopener noreferrer">Sam Altman</a> the following,</p>
 <blockquote>
 <p>If you had, say, $200 million to distribute, you could do with it whatever you wanted to help St. Louis — just St. Louis, not the world — what would you do to help St. Louis?</p>
@@ -353,6 +361,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/let-milwaukee-build.html"/>
         <id>https://MkeCountyBlog.com/let-milwaukee-build.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/28/mitchellBuilding.jpg" medium="image" />
             <category term="UWM"/>
             <category term="Old Buildings"/>
             <category term="Historic Designation"/>
@@ -367,7 +376,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/28/mitchellBuilding.jpg" alt="Very ornate Mitchell Building in downtown Milwaukee." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/28/mitchellBuilding.jpg" class="type:primaryImage" alt="Very ornate Mitchell Building in downtown Milwaukee." /></p>
                 <p>Whenever I go to the city I end up looking about at the old pre-1940's buildings; especially the grand, stone buildings like above. At the same time, when people purchase one of them, they have the right to decide what is done with it; it is theirs and not ours. The process Milwaukee uses to designate buildings historic has become a tool used to slow new development rather then protect historically significant, unique buildings. Every building has an interesting history but the vast majority should not be protected.</p>
 <p>I propose only the owner should be allowed to initiate the historic designation process. If a building is sold without having been designated, only the new owner may decide to submit it. One way to lower building costs and maintain sufficient quantities of affordable housing is to maintain a simple, predictable set of rules. When we allow any random person to trigger a historic designation or require a committee to approve renovation or new building designs, the delays and special material costs lead directly to more expensive housing for everybody.</p>
 <p>Potential purchasers or renovators of old buildings are frightened off by the high costs associated with historic renovations and the difficulty they will encounter receiving approvals. The owner may want to use a $1,000 aluminum clad window but the local committee requires a period appropriate wood window that costs $8,000. Buildings that could be renovated and utilized will fall into disrepair and eventually being demolished.</p>
@@ -399,6 +408,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/feedbin-feedly-and-inoreader-how-two-feed-readers-forgot-the-fundamentals.html"/>
         <id>https://MkeCountyBlog.com/feedbin-feedly-and-inoreader-how-two-feed-readers-forgot-the-fundamentals.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/27/donald-giannatti-8NYX8bVvPiQ-unsplash.jpg" medium="image" />
             <category term="RSS"/>
             <category term="Podcast"/>
             <category term="Open Source"/>
@@ -416,7 +426,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/27/donald-giannatti-8NYX8bVvPiQ-unsplash.jpg" alt="A single Aspen tree stands brilliant against a sea of green." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/27/donald-giannatti-8NYX8bVvPiQ-unsplash.jpg" class="type:primaryImage" alt="A single Aspen tree stands brilliant against a sea of green." /></p>
                 <p>Early in 2020 I made the shift from self-hosting with Tiny Tiny RSS then FreshRSS to buying an annual <a href="https://feedbin.com" title="Feedbin" target="_blank" rel="noopener noreferrer">Feedbin</a> subscription. The features I like with Feedbin include,</p>
 <ul>
 <li>Proxies all remote connections so a bunch of advertisers can't follow me around the internet. Overall a <a href="https://feedbin.com/blog/2018/09/11/private-by-default/" title="Private by Default" target="_blank" rel="noopener noreferrer">strong design emphasis on privacy</a>.</li>
@@ -451,6 +461,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/to-the-domes.html"/>
         <id>https://MkeCountyBlog.com/to-the-domes.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/26/domes3.jpeg" medium="image" />
             <category term="Winter"/>
             <category term="Tropical Dome"/>
             <category term="Trains"/>
@@ -469,7 +480,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/26/domes3.jpeg" alt="A view of the garden dome with two domes in the distance." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/26/domes3.jpeg" class="type:primaryImage" alt="A view of the garden dome with two domes in the distance." /></p>
                 <p>I last ventured to the Mitchell Park Domes several years ago to experience the very underwhelming and misleadingly named Cupcake Fest (only one cupcake vendor 😭!) My home has since added a son and my in-laws so Jenny and I decided to help them break up their first winter with a trip to the domes. The popular <a href="https://milwaukeedomes.org/show-dome-exhibits" title="Rotating Exhibits / Events" target="_blank" rel="noopener noreferrer">train show</a> is here and coronavirus restrictions limit the capacity so the domes are quite spacious. A few observations follow.</p>
 <ul>
 <li>Jumping directly from months of dull-colored winter scenery to brightly colored flowers without spring in between or travel is disorienting initially. My body was slightly unnerved.</li>
@@ -504,6 +515,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/the-role-of-bail-on-milwaukee-crime-increases.html"/>
         <id>https://MkeCountyBlog.com/the-role-of-bail-on-milwaukee-crime-increases.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/25/MilwaukeeCountyCourthouse.jpg" medium="image" />
             <category term="Waukesha"/>
             <category term="WTMJ"/>
             <category term="Milwaukee County"/>
@@ -522,7 +534,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/25/MilwaukeeCountyCourthouse.jpg" alt="Milwaukee County Courthouse east side. Tall columned limestone building." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/25/MilwaukeeCountyCourthouse.jpg" class="type:primaryImage" alt="Milwaukee County Courthouse east side. Tall columned limestone building." /></p>
                 <p>The Jeff Wagner Show on WTMJ recently discussed an increase in crime over the last two years that Jeff attributes to District Attorney John Chisholm’s election in 2007 and the policies his office created that release more defendants on bail. He seems to relate these policies directly to the spike in crime Milwaukee has experienced in car thefts, shootings, and general lawlessness.</p>
 <p>The latest discussion of this topic was sparked by the individual that used his car to kill and injure multiple people during Waukesha’s annual Christmas parade. Jeff said that many of his contacts in law enforcement and the legal system backup his idea that the ease of gaining release for defendants is correlated with the jump in crime. We can sum up his argument as releasing suspected criminals on bail frees them to terrorize law-abiding citizens of Milwaukee County and the surrounding suburbs.</p>
 <p>People charged with a crime are considered innocent until proven guilty. The stated goal of bail in Milwaukee is to incentivize defendants to show up for their court date so the bail amount is determined based on their likelihood of doing so. Jeff believes this law should be changed to include more consideration for the safety of the community.</p>
@@ -549,6 +561,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/linux-devices-require-user-patience.html"/>
         <id>https://MkeCountyBlog.com/linux-devices-require-user-patience.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/24/wesley-pribadi-iS1NV9yN0Lg-unsplash.jpg" medium="image" />
             <category term="system76"/>
             <category term="Thelio Major"/>
             <category term="Purism"/>
@@ -566,7 +579,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/24/wesley-pribadi-iS1NV9yN0Lg-unsplash.jpg" alt="Many penguins standing on a rock in a mostly dark space." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/24/wesley-pribadi-iS1NV9yN0Lg-unsplash.jpg" class="type:primaryImage" alt="Many penguins standing on a rock in a mostly dark space." /></p>
                 <p>February 2020 I bought a <a href="https://system76.com/desktops" title="system76 Thelio Major Desktops" target="_blank" rel="noopener noreferrer">system76 Thelio Major AMD desktop computer</a> to replace a 10 year old desktop I had built myself. I was pretty happy with the purchase until the computer started regularly locking up requiring a hard restart to resolve. Later, an update to system76’s software or perhaps the Linux kernel caused the fans to always run at full speed creating a very loud box despite their pitch of being designed to be extremely quiet.</p>
 <p>This week after a Fedora kernel and system76 update, the fans once again quieted down; the locking up still happens sporadically (I consider this a problem with AMD and not system76) but otherwise the computer is now functioning as I originally expected.</p>
 <p>This expensive purchase was meant to provide a hassle free decade of computer use but gave me a noisy, locking mess instead. As with any Linux problem, I reported it and  patiently waited for a resolution. Unlike Purism which focuses on using older, open hardware, System76 has a few more bugs due to selling the latest and greatest. If a user is patient then these problems are eventually fixed which I am glad to say has happened for the Thelio.</p>
@@ -582,6 +595,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/speedway-punished-for-being-repeatedly-robbed.html"/>
         <id>https://MkeCountyBlog.com/speedway-punished-for-being-repeatedly-robbed.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/23/maxim-hopman-PEJHULxUHZs-unsplash.jpg" medium="image" />
             <category term="Speedway"/>
             <category term="Milwaukee Common Council"/>
             <category term="MPD"/>
@@ -599,7 +613,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/23/maxim-hopman-PEJHULxUHZs-unsplash.jpg" alt="Shadow on a home wall showing a gun pointed at a person with raised hands" />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/23/maxim-hopman-PEJHULxUHZs-unsplash.jpg" class="type:primaryImage" alt="Shadow on a home wall showing a gun pointed at a person with raised hands" /></p>
                 <p>Earlier this year <a href="https://milwaukee.granicus.com/MediaPlayer.php?view_id=2&amp;clip_id=2696&amp;meta_id=2830638" title="Video of Licences Committee Meeting" target="_blank" rel="noopener noreferrer">during a licensing hearing</a> the Milwaukee City Council made <a href="https://urbanmilwaukee.com/2021/05/06/city-hall-bay-view-speedway-must-close-early-after-robbery-string/" title="Urban Milwaukee: Bay View Speedway Must Close Early After Robbery String" target="_blank" rel="noopener noreferrer">a bizarre decision</a> essentially blaming the owners of an Oklahoma Ave Speedway for being robbed multiple times during a month.</p>
 <blockquote>
 <p>Quite frankly, Speedway, this location has utilized the resources of the sixth MPD district way, way too much. You have abused that privilege.</p>
@@ -639,6 +653,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/bally-sports-please-shrink-the-score-box.html"/>
         <id>https://MkeCountyBlog.com/bally-sports-please-shrink-the-score-box.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/22/sportsScoresEasierFoundOnPhone.jpg" medium="image" />
             <category term="Score Box/Ticker"/>
             <category term="Fox Sports"/>
             <category term="Bucks"/>
@@ -655,10 +670,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/22/sportsScoresEasierFoundOnPhone.jpg" alt="Basketball players in Hong Kong with a large box obstructing the lower 10% of the picture." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/22/sportsScoresEasierFoundOnPhone.jpg" class="type:primaryImage" alt="Basketball players in Hong Kong with a large box obstructing the lower 10% of the picture." /></p>
                 <p>The clock struck midnight April 1<sup>st </sup>and Fox Sports Wisconsin magically transformed into Bally Sports. The name “Bally” returns memories of Bally Total Fitness; a fitness center I never went to with locations around Milwaukee that apparently <a href="https://en.wikipedia.org/wiki/Bally_Total_Fitness#Investigations_and_controversies" target="_blank" rel="noopener noreferrer">became very shady</a> before going bankrupt in 2016. While I held a neutral opinion of Fox Sports overall, among the various sport broadcasters they had the best score box and provided a pleasant viewing experience for Bucks and Brewers games.</p>
 <p>Their graphics left space all around the score box leaving it to float towards the bottom of the screen; thus removing the “lets eat up 1/5 of the screen found elsewhere (I’m looking at you ESPN.) I see no need for the Fox Sports and Bucks logo in the upper right but what can you do?</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/22/foxsportsBucks-2.jpg" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-xs.jpg 300w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-sm.jpg 480w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-md.jpg 768w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-lg.jpg 1024w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-xl.jpg 1360w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-2xl.jpg 1600w"  alt="Milwaukee Bucks game as broadcasted on Fox Sports Wisconsin." width="1151" height="650">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/22/foxsportsBucks-2.jpg" alt="Milwaukee Bucks game as broadcasted on Fox Sports Wisconsin." width="1151" height="650" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-xs.jpg 300w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-sm.jpg 480w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-md.jpg 768w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-lg.jpg 1024w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-xl.jpg 1360w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxsportsBucks-2-2xl.jpg 1600w">
 <figcaption >
 <div class="css-1dbjc4n r-14gqq1x"><a href="https://twitter.com/BallySportWI/status/962147173604274176" target="_blank" rel="noopener noreferrer"> </a>
 <div class="css-1dbjc4n r-1wbh5a2 r-dnmrzs r-1ny4l3l"><a href="https://twitter.com/BallySportWI/status/962147173604274176" target="_blank" rel="noopener noreferrer"> </a>
@@ -670,11 +685,11 @@
 </figcaption>
 </figure>
 <p>A similar display existed for the Brewers; all of the information I want provided within a tidy, compact box that stays out of the game's way and avoids unnecessary distraction.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/22/foxSportsBrewers.jpg" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-xs.jpg 300w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-sm.jpg 480w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-md.jpg 768w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-lg.jpg 1024w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-xl.jpg 1360w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-2xl.jpg 1600w"  alt="Milwaukee Brewers game as presented by Fox Sports Wisconsin." width="1161" height="650">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/22/foxSportsBrewers.jpg" alt="Milwaukee Brewers game as presented by Fox Sports Wisconsin." width="1161" height="650" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-xs.jpg 300w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-sm.jpg 480w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-md.jpg 768w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-lg.jpg 1024w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-xl.jpg 1360w ,https://MkeCountyBlog.com/media/posts/22/responsive/foxSportsBrewers-2xl.jpg 1600w">
 <figcaption ><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">@ChristianYelich goes yard for the 16th time this season. <span style="color: var(--text-light-color); font-family: var(--font-base); font-size: 0.70233em; font-weight: var(--font-weight-normal);">©</span><a href="https://twitter.com/BallySportWI/status/1025211771722715137" target="_blank" rel="noopener noreferrer">@BallySportWI</a></span></span></figcaption>
 </figure>
 <p>Unfortunately, all was lost during the transition to Bally Sports. They introduced themselves with a big honker of a score box/ticker combo that changes ESPN’s two level score box/ticker into a one level behemoth without reducing used screen space 😖.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/22/ballySports.png" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-xs.png 300w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-sm.png 480w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-md.png 768w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-2xl.png 1600w"  alt="Bucks game as presented by Bally Sports. Notice the larger ticker at the bottom." width="1154" height="650">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/22/ballySports.png" alt="Bucks game as presented by Bally Sports. Notice the larger ticker at the bottom." width="1154" height="650" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-xs.png 300w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-sm.png 480w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-md.png 768w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/22/responsive/ballySports-2xl.png 1600w">
 <figcaption >I also love how the camera is zoomed in and tilted up so viewers can better see stadium advertisements instead of the floor! © Milwaukee County Blog</figcaption>
 </figure>
 <p>The color scheme is an improvement over ESPN but I wish the ticker were removed entirely. I’m more interested in seeing the hitters count at all times rather than how the Rockies are doing (Boo Rockies?) The world only needs a single Bally “B” logo on screen at once so how about dropping the upper right corner logos? I know I’m watching the Bucks or Brewers because their logo or name is next to the score so the extra reminder in the corner is superfluous.</p>
@@ -689,6 +704,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/time-will-tell-for-internxt.html"/>
         <id>https://MkeCountyBlog.com/time-will-tell-for-internxt.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/19/cookie-the-pom-gySMaocSdqs-unsplash.jpg" medium="image" />
             <category term="Services"/>
             <category term="Open Source"/>
             <category term="Internxt"/>
@@ -703,7 +719,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/19/cookie-the-pom-gySMaocSdqs-unsplash.jpg" alt="Pomeranian dog wearing glasses while looking at an iPad." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/19/cookie-the-pom-gySMaocSdqs-unsplash.jpg" class="type:primaryImage" alt="Pomeranian dog wearing glasses while looking at an iPad." /></p>
                 <p>I came across <a href="https://internxt.com/" target="_blank" rel="noopener noreferrer">Internxt</a> while looking into ProtonDrive as a supplement or potential replacement of Nextcloud. Internxt further strengthens remote, encrypted file storage by breaking individual files into little pieces (sharding) and storing them on different servers. With common file storage options like Dropbox, Google Drive, Nextcloud, and others; if someone steals a file from the server (lets assume it's encrypted) they can theoretically decrypt it (over a remarkably long period of time or with a massive amount of processing power.) Stealing a complete file from Internxt however would require a thief to solve the world's most complicated jigsaw puzzle. Puzzle pieces are hidden in piles of unrelated puzzle pieces in multiple places all over  the world (good luck!)</p>
 <p>I purchased the 2TB lifetime subscription to support the company building the product. It is currently too lacking in features to be used efficiently on a daily basis so my hope is that one day they produce a better product. All of the clients are in various forms of development so until they mature more it is not a particularly useful tool.</p>
 <p>My primary hesitation on spending money on their product was their lack of documentation describing their security model and system design. ProtonDrive, which is being developed by the people behind <a href="https://protonmail.com/" target="_blank" rel="noopener noreferrer">ProtonMail</a>, did a much better job presenting the <a href="https://protonmail.com/blog/protondrive-security/" target="_blank" rel="noopener noreferrer">architecture of their security system</a>. To Internxt's credit, all of their code is already <a href="https://github.com/internxt" target="_blank" rel="noopener noreferrer">open source</a> unlike Proton which generally creates, releases and later open sources their products. However, undocumented and unreviewed source code provides non-technical users minimal assurance.</p>
@@ -718,6 +734,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/campus-buildings-then-and-now.html"/>
         <id>https://MkeCountyBlog.com/campus-buildings-then-and-now.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/14/thenAndNow.jpeg" medium="image" />
             <category term="Wgema Campus"/>
             <category term="Potawatomi"/>
             <category term="Concordia College"/>
@@ -732,7 +749,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/14/thenAndNow.jpeg" alt="Black and white picture of 4 story brick dormitory in the 1920&#x27;s. Old car and motorcycle parked out front." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/14/thenAndNow.jpeg" class="type:primaryImage" alt="Black and white picture of 4 story brick dormitory in the 1920&#x27;s. Old car and motorcycle parked out front." /></p>
                 <p><strong>Desktop: </strong>Click picture to enlarge it; use keyboard's arrow keys to move around. Clicking on the enlarged picture will let you zoom in.</p>
 <p><strong>Mobile: </strong>Click picture to enlarge it; swipe back and forth to move forward and back. Tap image to hide text. Feel free to zoom in on pictures.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
@@ -927,6 +944,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/wgema-campus-development-continues.html"/>
         <id>https://MkeCountyBlog.com/wgema-campus-development-continues.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/15/gym.jpg" medium="image" />
             <category term="Wgema Campus"/>
             <category term="Potawatomi"/>
             <category term="Concordia College"/>
@@ -941,7 +959,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/15/gym.jpg" alt="Two story brick gymnasium with &quot;Concordia College Gymnasium&quot; in limestone above the door." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/15/gym.jpg" class="type:primaryImage" alt="Two story brick gymnasium with &quot;Concordia College Gymnasium&quot; in limestone above the door." /></p>
                 <p>On Friday the director of facilities for Potawatomi Business Development Corporation Joe Tesch discussed future construction plans for Potawatomi’s Wgema Campus located in Milwaukee’s historic Concordia neighborhood.</p>
 <p>In November they submitted a proposal to install more than 800 solar panels capable of generating 335 kilowatts of energy in an empty grass parcel across from the Tthigwe gymnasium building. The site is zoned for $250 thousand of light industrial but the campus is located within the Concordia Historic District and needs approval from the Milwaukee Historic Preservation Commission before they may proceed.</p>
 <p>“We need to keep the solar array there for 5 years to satisfy the grant. I would say after five years there could be another data center or you know some kind of light industrial building built,” said Tesch.</p>
@@ -986,6 +1004,7 @@
         </author>
         <link href="https://MkeCountyBlog.com/looking-back-at-concordia-college.html"/>
         <id>https://MkeCountyBlog.com/looking-back-at-concordia-college.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/16/08.1-refectory-building.jpeg" medium="image" />
             <category term="Wgema Campus"/>
             <category term="Potawatomi"/>
             <category term="Concordia College"/>
@@ -1000,7 +1019,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/16/08.1-refectory-building.jpeg" alt="Two story brick refectory from an angle. A large smoke stack is visible on the roof. &quot;Concordia College&quot; in metal letters over the side entrance." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/16/08.1-refectory-building.jpeg" class="type:primaryImage" alt="Two story brick refectory from an angle. A large smoke stack is visible on the roof. &quot;Concordia College&quot; in metal letters over the side entrance." /></p>
                 <p>A short audio story exploring life on campus and why the college moved to Mequon. It features former Concordia College student Wayne Braun; presently the senior pastor at Fishers of Men Lutheran Church in Texas.  He and his wife were members of the first class to receive a four year bachelor of arts degree from the college in 1980.</p>
 <p><audio loading="lazy" controls="controls">
   <source src="https://mkecountyblog.com/CC_LookBack.mp3" type="audio/mpeg" />
@@ -1015,6 +1034,7 @@ Your browser does not support the audio element.</audio></p>
         </author>
         <link href="https://MkeCountyBlog.com/concordia-to-wgema-40-years-of-transitions.html"/>
         <id>https://MkeCountyBlog.com/concordia-to-wgema-40-years-of-transitions.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/17/2006.jpeg" medium="image" />
             <category term="Wgema Campus"/>
             <category term="Concordia College"/>
 
@@ -1027,15 +1047,15 @@ Your browser does not support the audio element.</audio></p>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/17/2006.jpeg" alt="Old 3.5 story brick college building with leave-less trees flanking it in front." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/17/2006.jpeg" class="type:primaryImage" alt="Old 3.5 story brick college building with leave-less trees flanking it in front." /></p>
                 <p>The Concordia neighborhood in Milwaukee's West End was named after Concordia College which was located there from 1881 until they relocated to Mequon in 1983. The campus and many surrounding residences were sold to the Forest County Potawatomi in 1990. The following stories provide an overview of how the campus has changed over time.</p>
-<h3 class="align-center"><figure class="post__image post__image--center"><img loading="lazy"  src="https://MkeCountyBlog.com/media/posts/17/thenAndNow.jpeg" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-xs.jpeg 300w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-sm.jpeg 480w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-md.jpeg 768w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-lg.jpeg 1024w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-xl.jpeg 1360w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-2xl.jpeg 1600w"  alt="" width="254" height="200"></figure></h3>
+<h3 class="align-center"><figure class="post__image post__image--center"><img loading="lazy"  src="https://MkeCountyBlog.com/media/posts/17/thenAndNow.jpeg" alt="" width="254" height="200" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-xs.jpeg 300w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-sm.jpeg 480w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-md.jpeg 768w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-lg.jpeg 1024w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-xl.jpeg 1360w ,https://MkeCountyBlog.com/media/posts/17/responsive/thenAndNow-2xl.jpeg 1600w"></figure></h3>
 <h3 class="align-center"><a href="https://MkeCountyBlog.com/campus-buildings-then-and-now.html">Campus Buildings Then &amp; Now </a></h3>
 <h3 class="align-center"> </h3>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://MkeCountyBlog.com/media/posts/17/aLookBack.jpeg" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-xs.jpeg 300w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-sm.jpeg 480w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-md.jpeg 768w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-lg.jpeg 1024w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-xl.jpeg 1360w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-2xl.jpeg 1600w"  alt="" width="318" height="200"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://MkeCountyBlog.com/media/posts/17/aLookBack.jpeg" alt="" width="318" height="200" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-xs.jpeg 300w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-sm.jpeg 480w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-md.jpeg 768w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-lg.jpeg 1024w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-xl.jpeg 1360w ,https://MkeCountyBlog.com/media/posts/17/responsive/aLookBack-2xl.jpeg 1600w"></figure>
 <h3 class="align-center"><a href="https://MkeCountyBlog.com/looking-back-at-concordia-college.html">Looking Back At Concordia College in Milwaukee</a></h3>
 <p> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://MkeCountyBlog.com/media/posts/17/transformationContinues.jpeg" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-xs.jpeg 300w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-sm.jpeg 480w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-md.jpeg 768w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-lg.jpeg 1024w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-xl.jpeg 1360w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-2xl.jpeg 1600w"  alt="" width="375" height="200"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://MkeCountyBlog.com/media/posts/17/transformationContinues.jpeg" alt="" width="375" height="200" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-xs.jpeg 300w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-sm.jpeg 480w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-md.jpeg 768w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-lg.jpeg 1024w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-xl.jpeg 1360w ,https://MkeCountyBlog.com/media/posts/17/responsive/transformationContinues-2xl.jpeg 1600w"></figure>
 <h3 class="align-center"><a href="https://MkeCountyBlog.com/wgema-campus-development-continues.html">Wgema Campus Development Continues</a></h3>
 <p> </p>
 <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="425" height="350" style="border: 1px solid black;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-87.96079487721005%2C43.03848536272863%2C-87.94643969456234%2C43.045173931869&amp;layer=mapnik"></iframe></div><small><a href="https://www.openstreetmap.org/#map=17/43.04183/-87.95362"></a></small></p>
@@ -1060,6 +1080,7 @@ Your browser does not support the audio element.</audio></p>
         </author>
         <link href="https://MkeCountyBlog.com/securing-the-final-link-in-the-absentee-ballot-chain.html"/>
         <id>https://MkeCountyBlog.com/securing-the-final-link-in-the-absentee-ballot-chain.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/9/joshua-woroniecki-nSbsfmvURt8-unsplash.jpg" medium="image" />
             <category term="Wisconsin"/>
             <category term="Security"/>
             <category term="Election"/>
@@ -1074,7 +1095,7 @@ Your browser does not support the audio element.</audio></p>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/9/joshua-woroniecki-nSbsfmvURt8-unsplash.jpg" alt="The stars from the American flag with a card laying on top of the stripes that says &quot;BALLOT ENCLOSED&quot; " />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/9/joshua-woroniecki-nSbsfmvURt8-unsplash.jpg" class="type:primaryImage" alt="The stars from the American flag with a card laying on top of the stripes that says &quot;BALLOT ENCLOSED&quot; " /></p>
                 
   <p>
     With election 2020 winding down (hopefully🤞) we once again have claims of election fraud flying around; this time in regards to absentee (mail-in) ballots. Putting the actual prevalence of absentee voting fraud aside; let's look at where some realistic vulnerabilities in the current process are and one idea on how to deal with them. Absentee voting is handled pretty well in Wisconsin with a few areas left to improve upon. Below is a summary of my understanding of the current voting process.
@@ -1134,6 +1155,7 @@ Your browser does not support the audio element.</audio></p>
         </author>
         <link href="https://MkeCountyBlog.com/protonmail-bridge-and-thunderbird-smtp-issue-resolution.html"/>
         <id>https://MkeCountyBlog.com/protonmail-bridge-and-thunderbird-smtp-issue-resolution.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/8/fongit-2.jpg" medium="image" />
             <category term="Thunderbird"/>
             <category term="ProtonMail"/>
             <category term="Privacy"/>
@@ -1149,7 +1171,7 @@ Your browser does not support the audio element.</audio></p>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/8/fongit-2.jpg" alt="Picture of ProtonMail&#x27;s 5 story teal office building in Geneva." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/8/fongit-2.jpg" class="type:primaryImage" alt="Picture of ProtonMail&#x27;s 5 story teal office building in Geneva." /></p>
                 <p>While setting up the ProtonMail Bridge with Thunderbird 78.3.2 today I discovered that Thunderbird's standard self-signed certificate dialog no longer appears before sending the first message; making sending emails impossible. While ducking around (<a href="https://duckduckgo.com" target="_blank" rel="nofollow noopener noreferrer">duckduckgo.com</a>) I discovered this is a known bug that will be fixed in an upcoming release of Thunderbird; but I want to use it now!!! 🙎🤣</p>
 <p>My work around is tedious but simple.</p>
 <ol>
@@ -1180,6 +1202,7 @@ Your browser does not support the audio element.</audio></p>
         </author>
         <link href="https://MkeCountyBlog.com/wisconsin-governors-vetoes-tip-the-scales.html"/>
         <id>https://MkeCountyBlog.com/wisconsin-governors-vetoes-tip-the-scales.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/7/Wisconsin_Supreme_Court-3.jpg" medium="image" />
             <category term="Wisconsin Supreme Court"/>
             <category term="Wisconsin"/>
             <category term="Governor"/>
@@ -1193,7 +1216,7 @@ Your browser does not support the audio element.</audio></p>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/7/Wisconsin_Supreme_Court-3.jpg" alt="Court room of the Wisconsin Supreme Court in Madison&#x27;s state capitol building." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/7/Wisconsin_Supreme_Court-3.jpg" class="type:primaryImage" alt="Court room of the Wisconsin Supreme Court in Madison&#x27;s state capitol building." /></p>
                 
   <p>
     This post sprang to mind while thinking about the Wisconsin governor's veto powers after a <a href="https://www.wpr.org/wisconsin-supreme-court-strikes-down-3-evers-vetoes" target="_blank">recent Wisconsin Supreme Court ruling</a> that attempted to clarify restrictions to this broad power amended to our state constitution in 1930. Much of the commentary focused on the specific vetoes from today's case but my thoughts shifted towards why Wisconsin has such a strong veto and why so much power was placed in a single branch of our state government. This year I have been reading&nbsp;<a href="https://www.amazon.com/Conservative-Sensibility-George-F-Will-ebook/dp/B07J525HRP/" target="_blank" rel="nofollow noopener">The Conservative Sensibility</a> by George F. Will. The first few chapters discuss the original design of the United States' federal government with a thorough description of the intended limits and separations.
@@ -1233,6 +1256,7 @@ Your browser does not support the audio element.</audio></p>
         </author>
         <link href="https://MkeCountyBlog.com/simplifying-listsnotesto-do-organization-with-caldav.html"/>
         <id>https://MkeCountyBlog.com/simplifying-listsnotesto-do-organization-with-caldav.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" medium="image" />
             <category term="iPhone"/>
             <category term="WebDAV"/>
             <category term="Wallabag"/>
@@ -1255,7 +1279,7 @@ Your browser does not support the audio element.</audio></p>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" alt="Man in the corner of a room covered in different post it reminders." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/6/luis-villasmil-mlVbMbxfWI4-unsplash.jpg" class="type:primaryImage" alt="Man in the corner of a room covered in different post it reminders." /></p>
                 
   <p>
     Finding an intuitive way to organize notes and to-dos into a simple, cross-platform tool has been a tiring multiyear search. I started with Pocket for storing articles and Joplin for notes but ended up using Nextcloud's builtin CalDAV as well as the many good clients this provides. Saved articles are primarily used for improving&nbsp;<a href="https://www.openstreetmap.org/#map=15/43.0427/-87.9159" target="_blank" class="">OpenStreetMap</a>&nbsp;in the Milwaukee region. Notes are mostly quick reference points for Linux commands that I don't want to forget (or remember) as well as lists of books/movies/music to consume later or a place to jot down some notes during a meeting.
@@ -1294,6 +1318,7 @@ Your browser does not support the audio element.</audio></p>
         </author>
         <link href="https://MkeCountyBlog.com/grid-milwaukees-bus-routes.html"/>
         <id>https://MkeCountyBlog.com/grid-milwaukees-bus-routes.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" medium="image" />
             <category term="MapHub"/>
             <category term="MCTS"/>
             <category term="Grid"/>
@@ -1308,14 +1333,14 @@ Your browser does not support the audio element.</audio></p>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" alt="MCB&#x27;s grid map overlay." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/4/gridMilwaukeePostHeader.png" class="type:primaryImage" alt="MCB&#x27;s grid map overlay." /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="100%" height="576" src="https://maphub.net/embed/89503?legend=1" frameborder="0"></iframe></div>
 <p>Inspired by <a href="https://www.strongtowns.org/journal/2020/1/24/how-to-get-to-great-bus-service-in-a-car-dominated-place" title="How To Get To Great Bus Service In A Car-Dominated Place" target="_blank" rel="noopener noreferrer">an article from Strong Towns</a> discussing Indianapolis' new route trials it provides an alternative system design. To explore a prospective grid patterned map for Milwaukee County click the button above overlaying the map. The orange lines are East-West routes (EW) and the green lines are North-South routes (NS). For the most part each route crosses the entire county from EW or NS. Riding the bus to any destination would require knowing the cross-streets. For example: to get from Northwestern Mutual's new building downtown to the Mitchell Park Domes you would get on a bus at Mason Street / Prospect Avenue (the Wisconsin Avenue turn around), ride west along Wisconsin Avenue and transfer to the 27th Street line heading South. The same route using the existing lines is shown below.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/4/downtownToDomes.png" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-xs.png 300w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-sm.png 480w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-md.png 768w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-2xl.png 1600w"  alt="MCTS' current route from Downtown to the Domes" width="358" height="700">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/4/downtownToDomes.png" alt="MCTS' current route from Downtown to the Domes" width="358" height="700" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-xs.png 300w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-sm.png 480w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-md.png 768w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/4/responsive/downtownToDomes-2xl.png 1600w">
 <figcaption >Your options for getting to the domes from downtown with the current routes. ©Ride MCTS</figcaption>
 </figure>
 <p>MCTS's existing routes are a bit more sporadic; utilizing a route number or color and destinations (ex: GoldLine Wisconsin Ave - UWM or 21 North Ave.) They have done a good job connecting major amenities but lack the ability to connect riders to every area in the county. Going from Bayside to Brown Deer takes 5-10 minutes by car and 1.5 hours by bus. Franklin and Oak Creek are nearly unreachable. The county's budget is tight every year due mostly to poor pension related decision making from the past so routes have been slowly disappearing or shrinking. MCTS, our county supervisors and our county executive do a good job maintaining the current routes to connect as many people as possible to key destinations (generally prioritizing job access) despite the lack of funds. Unfortunately the current setup appears to create a downward spiral of higher fares and lower ridership (much like the rest of the country.)</p>
-<figure class="post__image post__image--full" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/4/mctsMap.png" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-xs.png 300w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-sm.png 480w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-md.png 768w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-2xl.png 1600w"  alt="2020 Milwaukee County Transit Guide" width="2323" height="1941">
+<figure class="post__image post__image--full" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/4/mctsMap.png" alt="2020 Milwaukee County Transit Guide" width="2323" height="1941" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-xs.png 300w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-sm.png 480w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-md.png 768w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/4/responsive/mctsMap-2xl.png 1600w">
 <figcaption ><a href="https://www.ridemcts.com/getattachment/Routes-Schedules/System-Map/2020-System-Map.pdf?lang=en-US" target="_blank" rel="noopener noreferrer" title="2020 Milwaukee County Transit Guide">2020 Milwaukee County Transit Guide</a> - ©MCTS</figcaption>
 </figure>
 <p>Influenced by MCTS advertising and stories about bus drivers, I began riding during the summer of 2019. My wife and I moved from downtown to Bayside a few years ago after which she started a new job in the city. We enjoy eating at various restaurants all around the city (keep it in the county!) so in order to avoid driving two cars home after dinner I decided to start taking the bus down to meet her. MCTS is a great transportation option and I now take the bus to the city multiple times a week. The drivers are friendly, helpful, and know the different routes well enough to help a turned around newcomer (such a myself.) It also encourages me to get outside and walk more. It takes at least 30 minutes to walk to the nearest bus stop from my home. Another example is last fall when I got off at the east end of Brady street and walked west to Van Buren to meet my wife.</p>
@@ -1337,6 +1362,7 @@ Your browser does not support the audio element.</audio></p>
         </author>
         <link href="https://MkeCountyBlog.com/switching_to_the_brave_web_browser.html"/>
         <id>https://MkeCountyBlog.com/switching_to_the_brave_web_browser.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/3/logotype_alt.svg" medium="image" />
             <category term="Web Browser"/>
             <category term="Privacy"/>
             <category term="Open Source"/>
@@ -1352,12 +1378,12 @@ Your browser does not support the audio element.</audio></p>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/3/logotype_alt.svg" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/3/logotype_alt.svg" class="type:primaryImage" alt="Brave browser&#x27;s logo, a stylized lion&#x27;s head on the left, with an orange background." /></p>
                 <p>A lesson I learned while teaching my Mom some computer tricks is that I should probably begin with what a (web) browser is. To do this, I'll start with a somewhat technical definition from <a href="https://en.wikipedia.org/wiki/Web_browser" title="Web browser" target="_blank" rel="noopener noreferrer">Wikipedia</a>, "A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web." Great, now lets simplify that a bit. You will likely recognize names such as Chrome, Firefox, Edge or Safari; these are different browsers. You open it up and use it to shop on Amazon or Etsy; Duck things on <a href="https://duckduckgo.com/" target="_blank" rel="noopener noreferrer">duckduckgo</a>; checkout stuff on Pinterest, Reddit or Facebook, etc. You tell the browser what you want to see by typing in an URL, (for example <a href="https://google.com">https://google.com</a>) or more likely just type in a search term and off you go!</p>
 <p>Hopefully you now recognize what a browser is but I imagine now you're wondering so what? Who cares what browser I use? For the most part it doesn't make much of a difference. They may use slightly different styling, or have some special feature you never use, but essentially they all take you to the same place. They connect you with websites and hopefully stay out of your way.</p>
 <p>I will pick on Chrome for this paragraph because it is mostly developed by the largest internet advertising company on the planet, Google. If I remember correctly, Chrome was created to speed up web browsing and improve browser security. Around 2010 Internet Explorer was full of security holes and Firefox was slow and bloated so the user experience was not particularly good. Also, Google wanted to be sure that the Google search engine remained the default option at least in Chrome since search ads drive a great deal of their revenue; IE or Firefox switching their default search provider at the time could have been very harmful to Google's bottom line.</p>
 <p>The green line on the chart below shows the change in Chrome's market share from 2009-2020. Today it controls roughly 65% of the browser market which gives Google a great deal of power in discussions about what standards are introduced and adopted and how they are implemented. Chrome is very slow to adopt the privacy features built-in to their competitor's browsers as they would negatively effect their advertising income. This allows them to better identify and track people in order to serve them more targeted advertisements and make more money.</p>
-<figure class="post__image"><img loading="lazy"  src="https://MkeCountyBlog.com/media/posts/3/StatCounter-browser-ww-monthly-200901-202002.png" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-xs.png 300w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-sm.png 480w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-md.png 768w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-2xl.png 1600w"  alt="Web Browser Market Share Worldwide between January 2009 and February 2020" width="1280" height="720"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://MkeCountyBlog.com/media/posts/3/StatCounter-browser-ww-monthly-200901-202002.png" alt="Web Browser Market Share Worldwide between January 2009 and February 2020" width="1280" height="720" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-xs.png 300w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-sm.png 480w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-md.png 768w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/3/responsive/StatCounter-browser-ww-monthly-200901-202002-2xl.png 1600w"></figure>
 <p>Chrome is built on top of the open-source Chromium browser. Chrome is essentially Chromium with a Google sweatshirt. Everyone is free to use and change Chromium but that sweatshirt is hiding all of the extra stuff Google adds to build the proprietary Chrome. The source code is closed off so no one can see. You can think of Brave as Chromium with a completely different sweatshirt with all of its unique features open to everyone allowing us see, change and help improve it. So you get all of the security and speed benefits without most of the Google enabled tracking and privacy invading aspects of Chrome. </p>
 <p>That is the basic building blocks of the Brave browser. <strong>The truly revolutionary portion is their long-term goal of replacing the massive user tracking and profiling system that currently powers the internet economy with a privacy preserving advertising system built into the browser.</strong> Most internet services such as Gmail, Facebook, Instagram, Tiktok, newspapers, magazines, blogs, etc are funded through advertising. This is why a service like Hulu has a free tier with advertising while Netflix always requires you to pay. The trouble is, this business model incentivizes massive amounts of surveillance across the internet.</p>
 <blockquote>
@@ -1402,7 +1428,7 @@ Your browser does not support the audio element.</audio></p>
 </ul>
 <p>At this point you might be uneasy but still think, "hey, they need to earn money to pay for their reporting. There aren't that many options for decent, local, investigative journalism and the newspaper industry has been hammered over the years (by Google &amp; Facebook as it turns out.)" This is where Brave stands out from the other browsers. Instead of just blocking ads, Brave users are able to earn money in the form of Basic Attention Tokens (BAT) for allowing Brave to display ads occasionally. You are able to adjust how frequently they appear and are not required to enable them; it is an opt-in choice. At this point, the ads display as notifications on your computer or phone and disappear after a few seconds. When ads popup, you earn 70% of the ad revenue while the other 30% goes to Brave providing them with a dedicated funding source. Firefox, the third most used browser, is another open source browser with some ad-blocking but they rely on search engine providers for a large chunk of their annual funding leaving them with an unstable year to year budget and an uncertain future. They face the same problem as newspapers: since less people are using them, they get paid less for the default search engine rights and have less money to compete.</p>
 <p>Every month Brave distributes a user-adjustable percentage of your BAT to the websites you visit based on the amount of time you spent at each site. When the ad is displayed, you earn BAT; no need to click on the ad if you're not interested. The tracking and ad targeting is all done locally on your computer and is never sent anywhere or shared with anyone. This allows website owners and content creators to earn money without strong-arming users into giving information to Google and Facebook to sell to ad companies. When you browse Github, Reddit, Twitter or YouTube, the content creators are able to receive BAT instead of just the website operator. This means that Timmy will get BAT for his YouTube video when people watch it, not just YouTube.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/3/braveNewTab.png" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-xs.png 300w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-sm.png 480w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-md.png 768w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-2xl.png 1600w"  alt="Screenshot of Brave's new page" width="1920" height="1054">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://MkeCountyBlog.com/media/posts/3/braveNewTab.png" alt="Screenshot of Brave's new page" width="1920" height="1054" sizes="100vw" srcset="https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-xs.png 300w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-sm.png 480w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-md.png 768w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-lg.png 1024w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-xl.png 1360w ,https://MkeCountyBlog.com/media/posts/3/responsive/braveNewTab-2xl.png 1600w">
 <figcaption >Brave's new tab page where you can see what's been blocked and how much time you've saved. ©MCB</figcaption>
 </figure>
 <p>Brave seems like a near perfect compromise that benefits users, advertisers and content creators. Users continue to get free content as well as <a href="https://www.ghacks.net/2020/02/25/study-finds-brave-to-be-the-most-private-browser/" title="Study finds Brave to be the most private browser" target="_blank" rel="noopener noreferrer">the most private by default browser out there</a>; advertisers can continue to sell their wares; content creators can earn money for endeavors; all without the massive, privacy invading, information dragnet currently in place. I hope to see Brave usage increase and more websites sign on; especially in Milwaukee. Some companies certainly seem to be on board as lately larger companie's ads are showing up. User growth appears to be healthy as well; <a href="https://brave.com/brave-passes-10m-mau/" title="Brave Passes 10 Million Monthly Active Users, and Sees 19% Growth since 1.0 Launch" target="_blank" rel="noopener noreferrer">passing 10 million</a> last December.</p>
@@ -1419,6 +1445,7 @@ Your browser does not support the audio element.</audio></p>
         </author>
         <link href="https://MkeCountyBlog.com/overlooked-privacy-issues-with-the-hops-new-kiosks.html"/>
         <id>https://MkeCountyBlog.com/overlooked-privacy-issues-with-the-hops-new-kiosks.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/2/Kiosk-Rendering.png" medium="image" />
             <category term="The Hop"/>
             <category term="Surveillance"/>
             <category term="Privacy"/>
@@ -1433,7 +1460,7 @@ Your browser does not support the audio element.</audio></p>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://MkeCountyBlog.com/media/posts/2/Kiosk-Rendering.png" alt="" />
+                    <p><img src="https://MkeCountyBlog.com/media/posts/2/Kiosk-Rendering.png" class="type:primaryImage" alt="" /></p>
                 <p>A recent <a href="https://urbanmilwaukee.com/pressrelease/the-hop-unveils-citypost-smart-kiosk-initiative/" title="The Hop Unveils CityPost Smart Kiosk Initiative" target="_blank" rel="noopener noreferrer">press release</a> from The Hop offers details about the 8.5 foot "smart kiosks" being introduced to Milwaukee’s streetcar stops beginning in May. Cities around the world have been forming relationships with companies such as Smart City Media to create new sources of income for municipalities as well as bridge the gap between online advertising and people’s habits in the physical world.</p>
 <p>The idea normally revolves around using cameras, sensors and various other tracking techniques to connect people's online advertising profiles to their actions in the physical world while offering a somewhat useful tool in return at no cost to the municipality. Did Sam go to the store and buy that home mushroom farm we advertised on Instagram?</p>
 <p>These agreements often create concerns as a result of privacy and security considerations being an afterthought of companies and municipalities. When companies that specialize in advertising offer something for free, there is a trade off that often comes at the expense of an individual's privacy. When a budget strapped city such as Milwaukee is offered up to $500,000 annually at no expense, they tend not to focus on the details.</p>
