@@ -304,13 +304,13 @@
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/common-council-makes-things-worse-again.html</loc>
-<lastmod>2022-06-25T09:22:03-05:00</lastmod>
+<lastmod>2022-11-06T17:22:09-06:00</lastmod>
 <image:image>
 <image:loc>https://MkeCountyBlog.com/media/posts/32/nazrin-babashova-lhVRa24EOSA-unsplash.jpg</image:loc>
 <image:title><![CDATA[Burger King on a foggy night. ]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://MkeCountyBlog.com/media/posts/32/gallery/2022murders-thumbnail.png</image:loc>
+<image:loc>https://MkeCountyBlog.com/media/posts/32/gallery/2022murders-thumbnail.webp</image:loc>
 <image:title><![CDATA[Map showing murders in neighborhoods surrounding Burger King.]]></image:title>
 </image:image>
 </url>
@@ -411,6 +411,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/mcb-technical-update-november-2022.html</loc>
+<lastmod>2022-11-06T18:39:51-06:00</lastmod>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/43/claudia-wolff-owBcefxgrIE-unsplash.jpg</image:loc>
+<image:title><![CDATA[Woman sobbing beside a bed.]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/overlooked-privacy-issues-with-the-hops-new-kiosks.html</loc>
 <lastmod>2021-01-01T10:55:45-06:00</lastmod>
 <image:image>
@@ -420,6 +428,9 @@
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/page/2/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/page/3/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/protonmail-bridge-and-thunderbird-smtp-issue-resolution.html</loc>
@@ -549,6 +560,9 @@
 <loc>https://MkeCountyBlog.com/tags/crime/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/tags/css/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/tags/cupcakes/</loc>
 </url>
 <url>
@@ -568,6 +582,9 @@
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/diet-coke/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/tags/dragons/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/election/</loc>
@@ -711,6 +728,9 @@
 <loc>https://MkeCountyBlog.com/tags/protonmail/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/tags/publii/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/tags/purism/</loc>
 </url>
 <url>
@@ -753,10 +773,16 @@
 <loc>https://MkeCountyBlog.com/tags/st-louis-idea/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/tags/static-site-generators/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/tags/surveillance/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/system76/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/tags/technical-update/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/the-hop/</loc>
@@ -841,6 +867,9 @@
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/y-chromosome/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/tags/zola/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/the-collected-stories-of-lydia-davis-problem.html</loc>
