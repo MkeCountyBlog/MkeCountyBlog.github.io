@@ -3,12 +3,42 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2022-11-06T18:39:51-06:00</updated>
+    <updated>2022-12-28T14:53:04-06:00</updated>
     <author>
         <name>Colin White</name>
     </author>
     <id>https://MkeCountyBlog.com</id>
 
+    <entry>
+        <title>Jingoism</title>
+        <author>
+            <name>Colin White</name>
+        </author>
+        <link href="https://MkeCountyBlog.com/jingoism.html"/>
+        <id>https://MkeCountyBlog.com/jingoism.html</id>
+        <media:content url="https://MkeCountyBlog.com/media/posts/44/datingjungle-RloS06Kcz4-unsplash.jpg" medium="image" />
+            <category term="WWI"/>
+            <category term="Jingoism"/>
+            <category term="Definitions"/>
+            <category term="Areopagus"/>
+
+        <updated>2022-12-28T14:53:04-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MkeCountyBlog.com/media/posts/44/datingjungle-RloS06Kcz4-unsplash.jpg" alt="Stellar ruins of Attica, Athens, Greece." />
+                    By way of The Cultural Tutor's Areopagus newsletter. From a post contemplating World War I comes a definition of jingoism;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://MkeCountyBlog.com/media/posts/44/datingjungle-RloS06Kcz4-unsplash.jpg" class="type:primaryImage" alt="Stellar ruins of Attica, Athens, Greece." /></p>
+                <p>By way of <a href="https://areopagus.culturaltutor.com/" title="Join the Areopagus" target="_blank" rel="noopener noreferrer">The Cultural Tutor's Areopagus newsletter</a>. From <a href="https://areopagus.culturaltutor.com/posts/areopagus-volume-xxiii" title="Areopagus Volume XXIII" target="_blank" rel="noopener noreferrer">a post contemplating World War I</a> comes a definition of jingoism; my emphasis added in bold.</p>
+<blockquote>
+<p>A word is devalued when its definition becomes overextended. Jingoism doesn't simply refer to any sort of militaristic nationalism. Rather, its central quality is that profound excitement which Zweig described so eloquently, which Plutarch evoked on the streets of Athens, of <strong>youthful passion exploited by ignorance and patriotism fanned by the flames of ambition</strong>.</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>MCB Technical Update: November 2022</title>
         <author>

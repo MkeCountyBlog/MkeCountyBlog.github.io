@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://MkeCountyBlog.com/jingoism.html",
+            "url": "https://MkeCountyBlog.com/jingoism.html",
+            "title": "Jingoism",
+            "summary": "By way of The Cultural Tutor's Areopagus newsletter. From a post contemplating World War I comes a definition of jingoism;&hellip;",
+            "content_html": "<p>By way of <a href=\"https://areopagus.culturaltutor.com/\" title=\"Join the Areopagus\" target=\"_blank\" rel=\"noopener noreferrer\">The Cultural Tutor's Areopagus newsletter</a>. From <a href=\"https://areopagus.culturaltutor.com/posts/areopagus-volume-xxiii\" title=\"Areopagus Volume XXIII\" target=\"_blank\" rel=\"noopener noreferrer\">a post contemplating World War I</a> comes a definition of jingoism; my emphasis added in bold.</p>\n<blockquote>\n<p>A word is devalued when its definition becomes overextended. Jingoism doesn't simply refer to any sort of militaristic nationalism. Rather, its central quality is that profound excitement which Zweig described so eloquently, which Plutarch evoked on the streets of Athens, of <strong>youthful passion exploited by ignorance and patriotism fanned by the flames of ambition</strong>.</p>\n</blockquote>",
+            "image": "https://MkeCountyBlog.com/media/posts/44/datingjungle-RloS06Kcz4-unsplash.jpg",
+            "author": {
+                "name": "Colin White"
+            },
+            "tags": [
+                   "WWI",
+                   "Jingoism",
+                   "Definitions",
+                   "Areopagus"
+            ],
+            "date_published": "2022-12-28T11:30:52-06:00",
+            "date_modified": "2022-12-28T14:53:04-06:00"
+        },
+        {
             "id": "https://MkeCountyBlog.com/mcb-technical-update-november-2022.html",
             "url": "https://MkeCountyBlog.com/mcb-technical-update-november-2022.html",
             "title": "MCB Technical Update: November 2022",
