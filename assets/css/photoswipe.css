@@ -540,6 +540,7 @@ a.pswp__share--download:hover {
 	line-height: 20px;
 	/*CHANGED FROM color: #CCC;*/
 	color: var(--white);
+	
 }
 
 .pswp__caption--empty {
