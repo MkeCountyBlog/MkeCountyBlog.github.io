@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2023-05-07T13:22:19-05:00</updated>
+    <updated>2023-05-07T13:37:46-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -338,13 +338,13 @@ from The American Heritage® Dictionary of the English Language, 5th Edition.<br
         <id>https://MkeCountyBlog.com/mcb-technical-update-november-2022.html</id>
         <media:content url="https://MkeCountyBlog.com/media/posts/43/claudia-wolff-owBcefxgrIE-unsplash.jpg" medium="image" />
             <category term="Zola"/>
-            <category term="Technical Update"/>
             <category term="Static Site Generators"/>
             <category term="Publii"/>
+            <category term="MCB Update"/>
             <category term="Dragons"/>
             <category term="CSS"/>
 
-        <updated>2022-11-06T18:39:51-06:00</updated>
+        <updated>2023-05-07T13:37:46-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/43/claudia-wolff-owBcefxgrIE-unsplash.jpg" alt="Woman sobbing beside a bed." />
