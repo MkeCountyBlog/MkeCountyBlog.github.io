@@ -30,7 +30,7 @@
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/about.html</loc>
-<lastmod>2022-07-07T16:15:50-05:00</lastmod>
+<lastmod>2023-05-07T13:29:07-05:00</lastmod>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/authors/colin-white/</loc>
@@ -454,6 +454,34 @@
 </image:image>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/mcb-general-update-may-2023.html</loc>
+<lastmod>2023-05-07T13:22:19-05:00</lastmod>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/52/townOfMilwaukeeTownHall.png</image:loc>
+<image:title><![CDATA[Front porch of original Town of Milwaukee Town Hall with a wood bench and old light fixture against clapboard wall.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/52/gallery/IMG_8312-thumbnail.webp</image:loc>
+<image:title><![CDATA[Town hall closer up flanked by two budding trees.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/52/gallery/IMG_8316-thumbnail.webp</image:loc>
+<image:title><![CDATA[Town hall from a distance with a large tree in front of it.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/52/gallery/IMG_8323-thumbnail.webp</image:loc>
+<image:title><![CDATA[Town hall front porch with an old light fixture and a bench.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/52/gallery/IMG_8318-thumbnail.webp</image:loc>
+<image:title><![CDATA[Town hall historic marker.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MkeCountyBlog.com/media/posts/52/gallery/siteLogoItalics-thumbnail.webp</image:loc>
+<image:title><![CDATA[Milwaukee County bus with Milwaukee County Blog written along the top.]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/mcb-technical-update-november-2022.html</loc>
 <lastmod>2022-11-06T18:39:51-06:00</lastmod>
 <image:image>
@@ -787,6 +815,9 @@
 <loc>https://MkeCountyBlog.com/tags/matc/</loc>
 </url>
 <url>
+<loc>https://MkeCountyBlog.com/tags/mcb-update/</loc>
+</url>
+<url>
 <loc>https://MkeCountyBlog.com/tags/mcts/</loc>
 </url>
 <url>
@@ -926,6 +957,9 @@
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/thunderbird/</loc>
+</url>
+<url>
+<loc>https://MkeCountyBlog.com/tags/town-of-milwaukee/</loc>
 </url>
 <url>
 <loc>https://MkeCountyBlog.com/tags/traffic/</loc>
