@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2023-06-05T15:41:20-05:00</updated>
+    <updated>2023-06-05T15:46:45-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -1604,12 +1604,13 @@ Your browser does not support the audio element.</audio></p>
         <id>https://MkeCountyBlog.com/protonmail-bridge-and-thunderbird-smtp-issue-resolution.html</id>
         <media:content url="https://MkeCountyBlog.com/media/posts/8/fongit-2.jpg" medium="image" />
             <category term="Thunderbird"/>
-            <category term="ProtonMail"/>
+            <category term="Proton Mail"/>
+            <category term="Proton"/>
             <category term="Privacy"/>
             <category term="Open Source"/>
             <category term="Email"/>
 
-        <updated>2020-10-12T10:54:44-05:00</updated>
+        <updated>2023-06-05T15:46:45-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/8/fongit-2.jpg" alt="Picture of ProtonMail&#x27;s 5 story teal office building in Geneva." />
