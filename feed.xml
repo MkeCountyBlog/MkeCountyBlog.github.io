@@ -3,7 +3,7 @@
     <title>Milwaukee County Blog</title>
     <link href="https://MkeCountyBlog.com/feed.xml" rel="self" />
     <link href="https://MkeCountyBlog.com" />
-    <updated>2023-06-05T15:46:45-05:00</updated>
+    <updated>2023-06-12T20:46:12-05:00</updated>
     <author>
         <name>Colin White</name>
     </author>
@@ -27,17 +27,17 @@
             <category term="CardDAV"/>
             <category term="CalDAV"/>
 
-        <updated>2023-06-05T15:41:20-05:00</updated>
+        <updated>2023-06-12T20:46:12-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MkeCountyBlog.com/media/posts/54/proton-logos.jpg" alt="Application icons of Proton&#x27;s suite of applications: Mail, Calendar, Drive, and VPN." />
-                    Proton products has made great strides during last couple of years. At this point the email service along with Proton&hellip;
+                    Proton products have made great strides the last couple of years. At this point the email service along with Proton&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://MkeCountyBlog.com/media/posts/54/proton-logos.jpg" class="type:primaryImage" alt="Application icons of Proton&#x27;s suite of applications: Mail, Calendar, Drive, and VPN." /></p>
-                <p>Proton products has made great strides during last couple of years. At this point the email service along with Proton Bridge is exceptionally stable while providing a smoother experience than their non-trillion dollar competitors. As I see it, the natural next step for Proton Bridge should be the incorporation of the CalDAV and CardDAV protocols to enable contact and calendar syncing on PCs. That would transform their contact and calendar services from a proof of concept into something people can replace other products with (bonus points if added as a provider in Gnome Online Accounts.)</p>
+                <p>Proton products have made great strides the last couple of years. At this point the email service along with Proton Bridge is exceptionally stable while providing a smoother experience than their non-trillion dollar competitors. As I see it, the natural next step for Proton Bridge should be the incorporation of the CalDAV and CardDAV protocols to enable contact and calendar syncing on PCs. That would transform their contact and calendar services from a proof of concept into something people can replace other products with (bonus points if added as a provider in Gnome Online Accounts.)</p>
 <p>Email, calendar, and contacts functionality are interconnected so bundling them into one application makes a lot of sense. On mobile devices I'd like contacts to be a standalone app; for example, on an iPhone I would tap on Proton Contacts instead of the builtin Contacts app to call people and setup new contacts. This is already how Proton Calendar, Drive, and Email work.</p>
 <p>Proton Drive is presently preparing the structure of their services for mass adoption so its usefulness remains a distant flicker. Sharing is functional and it sounds like the desktop client may be right around the corner. Much like contacts and calendars, everything but email feels perpetually unfinished with a solid, usable product constantly just out of reach. I hope that the sprinkling of improvements over the last year will grow into a cascade of highly usable cross platform products that allow users to consolidate everything into a wonderful Proton suite.</p>
 <p>Some complain about how long Drive desktop client development is taking; it appears Proton is (wisely) trying to implement the polished functionality of something like Dropbox and Google Docs/Sheets so that everything just works upon broad release. As they target general users of Microsoft’s Office365 and Google Workspace, Proton understands any breakage or file loss will send users running for the hills loudly warning others to beware at all costs.</p>
